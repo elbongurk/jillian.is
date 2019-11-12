@@ -1,0 +1,77 @@
+header {
+  margin: 20px auto 30px;
+  max-width: 900px;
+  border-bottom: 1px solid rgba(0,0,0,0.07);
+  text-align: center;
+
+  img {
+    display: inline-block;
+    max-width: 80px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+
+  h1 {
+    font-size: 26px;
+    font-weight: 500;
+    color: rgba(0,0,0,0.72);
+    margin-bottom: 5px;
+  }
+
+  h2 {
+    font-size: 16px;
+    font-weight: 300;
+    color: rgba(0,0,0,0.37);
+  }
+
+  p {
+    padding: 0 10px;
+    font-size: 20px;
+    font-weight: 200;
+    color: rgba(0,0,0,0.51)
+  }
+
+  nav {
+    margin-bottom: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      margin: 0 6px;
+      padding: 0;
+      display: inline-block;
+      a {
+        text-decoration: none;
+        color: #989898;
+        &:hover {
+          color: #434343;
+        }
+      }
+      i {
+        font-family: "SocialLogos";
+        font-size: 28px;
+        line-height:1;
+	      font-weight:normal;
+	      font-style:normal;
+	      speak:none;
+	      -webkit-font-smoothing:antialiased;
+	      -moz-osx-font-smoothing:grayscale;
+        &.dribbble:before {
+          content:"\f201";
+        }
+        &.twitter:before {
+          content:"\f610";
+        }
+        &.instagram:before {
+          content:"\f215";
+        }
+        &.linked-in:before {
+          content:"\f207";
+        }
+      }
+    }
+  }
+}

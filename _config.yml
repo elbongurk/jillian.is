@@ -1,0 +1,10 @@
+lang: en-US
+
+title: Jillian Noble
+description: I am a designer, illustrator, ampersand drawer, bike enthusiast, and big fan of craft beer. I also like most foods, traveling, and big white dogs named Jack.
+url: https://jillian.is
+timezone: America/Chicago
+
+permalink: pretty
+
+exclude: ['Gemfile', 'Gemfile.lock', 'CNAME']
