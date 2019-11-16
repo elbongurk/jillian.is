@@ -11,6 +11,18 @@
   description: |
     <p>NEW ENGLAND IPA</p>
     <p>The first in a new series of New England style IPAs offered by OMNI. The names and designs are inspired by 90s hip hop music.</p>
+- slug: OK-SET
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - OKTOBERFEST 
+  description: |
+    <p>Can design for OMNI's Oktoberfest marzen. Prost!</p>
+- slug: HH-SET
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - HUE HEFE 
+  description: |
+    <p>Can design for OMNI's hefeweizen giving a stong nod to Hue Hefner and his iconic red robe.</p>
 - slug: LD-SET
   file: jpg
   secondary: []
@@ -53,26 +65,6 @@
   title: OMNI BREWING - MALT SHOP - DOUBLE RASPBERRY & DOUBLE VANILLA
   description: |
     <p>A unique sub-brand for a series of milkshake style IPAs offered by OMNI. A hand-lettered emblem was designed along with some fruity illustrations to highlight the ingredients that make this beer unique.</p>
-
-- slug: lion
-  file: png
-  secondary: []
-  title: Geometric Lion  
-  description: |
-    <p>I've always loved animal illustration, but this I wanted to do more experimentation with abstraction and detail. Inspired by a class I took taught by DKNG studios.</p>
-- slug: bear
-  file: png
-  secondary: []
-  title: Geomeric Polar Bear  
-  description: |
-    <p>Another in the series of geometric animal illustrations.</p>
-    <p>I've always loved animal illustration, but this I wanted to do more experimentation with abstraction and detail. Inspired by a class I took taught by DKNG studios.</p>
-- slug: lion
-  file: png
-  secondary: []
-  title: Geometric Lion  
-  description: |
-    <p>I've always loved animal illustration, but this I wanted to do more experimentation with abstraction and detail. Inspired by a class I took taught by DKNG studios.</p>
 - slug: NE-SET
   file: jpg
   secondary: []
