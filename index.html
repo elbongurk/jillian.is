@@ -48,7 +48,7 @@ description: I am a designer, illustrator, ampersand drawer, bike enthusiast, an
             {{ work.description }}            
           </figcaption>
         </figure>
-        {% if work.secondary > 0 %}
+        {% if work.secondary.size > 0 %}
         <ul>
           {% for asset in work.secondary %}
           <li><img class="secondary" src="{{ load_secondary }}" data-src="{{ asset_path | append: asset | relative_url }}"/></li>
