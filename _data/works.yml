@@ -42,7 +42,14 @@
   secondary: []
   title: OMNI BREWING - MALT SHOP - BLUEBERRY PINEAPPLE
   description: |
-    <p>A unique sub-brand for a series of milkshake style IPAs offered by OMNI. A new hand-lettered embled was designed along with some fruity illustrations to highlight the ingredients that make this beer unique.</p>
+    <p>A unique sub-brand for a series of milkshake style IPAs offered by OMNI. A hand-lettered emblem wa was designed along with some fruity illustrations to highlight the ingredients that make this beer unique.</p>
+- slug: MS-DBR
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - MALT SHOP - DOUBLE RASPBERRY & DOUBLE VANILLA
+  description: |
+    <p>A unique sub-brand for a series of milkshake style IPAs offered by OMNI. A hand-lettered emblem was designed along with some fruity illustrations to highlight the ingredients that make this beer unique.</p>
+
 - slug: lion
   file: png
   secondary: []
