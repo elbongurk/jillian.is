@@ -28,8 +28,11 @@ header {
     padding: 0 10px;
     font-size: 20px;
     font-weight: 200;
-    color: rgba(0,0,0,0.51)
-  }
+    color: rgba(0,0,0,0.51);
+    @media (min-width: 800px) {
+    padding: 0 15%;
+    }
+}
 
   nav {
     margin-bottom: 20px;
