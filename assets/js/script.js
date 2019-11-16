@@ -4,8 +4,8 @@ function ready(fn) {
 
 ready(function() {
   var loadImage = function(img) {
-    img.src = img.dataset.src;
-    img.srcset = img.dataset.srcset;
+    if (img.dataset.src) img.src = img.dataset.src;
+    if (img.dataset.srcset) img.srcset = img.dataset.srcset;
   }
   
   var lazyImageObserver = new IntersectionObserver(function(entries, observer) {
