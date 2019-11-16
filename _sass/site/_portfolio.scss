@@ -44,6 +44,7 @@
       position: absolute;
       top: 10px;
       right: 10px;
+      @media (min-width: 800px) { top: 20px; right: 20px; }	    
     }
     figure img {
       display: inline-block;
