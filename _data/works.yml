@@ -24,13 +24,14 @@
   title: Geometric Lion  
   description: |
     <p>I've always loved animal illustration, but this I wanted to do more experimentation with abstraction and detail. Inspired by a class I took taught by DKNG studios.</p>
-- slug: THIS-SET
+- slug: THAT-SET
   file: jpg
   secondary: []
   title: OMNI BREWING - IT'S LIKE THAT 
   description: |
     <p>NEW ENGLAND IPA</p>
     <p>The second in a new series of New England style IPAs offered by OMNI. The names and designs are inspired by 90s hip hop music.</p>- slug: bear
+- slug: bear
   file: png
   secondary: []
   title: Geomeric Polar Bear  
