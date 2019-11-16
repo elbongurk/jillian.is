@@ -4,7 +4,7 @@
   padding: 0 10px;
   @include clearfix;
   max-width: 900px;
-  li {
+  > li {
     margin: 0;
     padding: 0;
     float: left;
