@@ -71,14 +71,13 @@
   secondary: []
   title: OMNI BREWING - NEXT EPISODE
   description: |
-    <p>NEW ENGLAND IPA</p>
-- slug: bear
+    <p>The third in a new series of New England style IPAs offered by OMNI. The names and designs are inspired by 90s hip hop music.</p>
+- slug: MS-FRUITS
   file: png
   secondary: []
-  title: Geomeric Polar Bear  
+  title: OMNI BREWING - MALT SHOP EMBLEM & FRUIT ILLUTRATIONS 
   description: |
-    <p>Another in the series of geometric animal illustrations.</p>
-    <p>I've always loved animal illustration, but this I wanted to do more experimentation with abstraction and detail. Inspired by a class I took taught by DKNG studios.</p>
+    <p>A hand-lettered emblem was designed along with some fruity illustrations to highlight the ingredients that make each one of these beers unique.</p>
 - slug: lion
   file: png
   secondary: []
