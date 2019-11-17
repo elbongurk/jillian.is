@@ -141,9 +141,16 @@
   description: |
     <p>A few variations on an illustrated rainy day surface pattern.</p>
 
-- slug: APRON_SET
+- slug: APRON-SET
   file: jpg
   secondary: []
   title: SURFACE PATTERNS/TEXTILE DESIGN - TODDLER APRON
   description: |
     <p>Miniture apron designed for a toddler eager to help in the kitchen.</p>
+
+- slug: hip-bao
+  file: jpg
+  secondary: []
+  title: HIP BAO IDENTITY, SIGNAGE, & PACKAGING
+  description: |
+    <p>Designs for a new Omaha-based dumpling restaurant.</p>
