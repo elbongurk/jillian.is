@@ -171,7 +171,11 @@
 
 - slug: WP
   file: jpg
-  secondary: []
+  secondary:
+      - WP-alt-01.jpg
+      - WP-alt-02.jpg
+      - WP-alt-03.jpg
+      - WP-alt-04.jpg
   title: WAYPOINT SPINE - LOGO, SIGNAGE, BUSINESS SET
   description: |
     <p>A team of orthopedic specialists including surgeons, physician’s assistants, physical therapists, and nurses open private practice spine clinics in four locations across central Wisconsin. Initally a logo, business set, and other marketing materials such as billboards and newspaper ads were designed. Later, digital marketing materials were created including social media ads were created to help spread the word.</p>
