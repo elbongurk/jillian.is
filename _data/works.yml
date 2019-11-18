@@ -104,12 +104,13 @@
   title: OMNI BREWING - IT'S LIKE THAT 
   description: |
     <p>The second in a new series of New England style IPAs offered by OMNI. The names and designs are inspired by 90s hip hop music.</p>
-- slug: zoo-animals
+
+- slug: SP-03
   file: jpg
   secondary: []
-  title: SURFACE PATTERN - ZOO ANIMALS
+  title: SURFACE PATTERNS - RAINY DAY
   description: |
-    <p>An illustrated surface pattern designed for Pottery Barn Kids's bedroom line.</p>
+    <p>A few variations on an illustrated rainy day surface pattern.</p>
 
 - slug: MS-BP
   file: jpg
@@ -181,12 +182,7 @@
   description: |
     <p>A illustrated princess surface pattern and secondary parttern created for Pottery Barn Kid's bedroom collection.</p>
 
-- slug: SP-03
-  file: jpg
-  secondary: []
-  title: SURFACE PATTERNS - RAINY DAY
-  description: |
-    <p>A few variations on an illustrated rainy day surface pattern.</p>
+
 
 - slug: APRON-SET
   file: jpg
@@ -253,6 +249,13 @@
   title: AMPERSAND POSTERS - 
   description: |
     <p>A few of the posters that were included in my <a href="http://am.persand.me/exhibitions/" target="_blank">show</a>. They measure 15" x 22", hand printed woodblocks, printed on Strathmore riverPoint paper.</p>
+
+- slug: zoo-animals
+  file: jpg
+  secondary: []
+  title: SURFACE PATTERN - ZOO ANIMALS
+  description: |
+    <p>An illustrated surface pattern designed for Pottery Barn Kids's bedroom line.</p>
 
 - slug: MW
   file: jpg
