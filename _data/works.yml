@@ -5,6 +5,19 @@
   title: OMNI BREWING - TIME MACHINE 
   description: |
      <p>Can design for OMNI's throwback American IPA which pays homage to the great beers of the 90's and 2000's.</p>
+
+- slug: playmaker
+  file: jpg
+  secondary: 
+    - playmaker-alt-01.jpg
+    - playmaker-alt-02.jpg
+    - playmaker-alt-03.jpg
+    - playmaker-alt-04.jpg
+    - playmaker-alt-05.jpg
+  title: PLAYMAKER JOURNAL - BASEBALL & SOFTBALL  
+  description: |
+    <p>A pocket-sized little league scorebook that allows any coach or proud parent to track a single child’s performance on the field.</p>
+
 - slug: THIS-SET
   file: jpg
   secondary: []
@@ -12,12 +25,31 @@
   description: |
     <p>NEW ENGLAND IPA</p>
     <p>The first in a new series of New England style IPAs offered by OMNI. The names and designs are inspired by 90s hip hop music.</p>
+
+- slug: WP
+  file: jpg
+  secondary:
+      - WP-alt-01.jpg
+      - WP-alt-04.jpg
+      - WP-alt-03.jpg   
+  title: WAYPOINT SPINE - LOGO, SIGNAGE, BUSINESS SET
+  description: |
+    <p>A team of orthopedic specialists including surgeons, physician’s assistants, physical therapists, and nurses open private practice spine clinics in four locations across central Wisconsin. Initally a logo, business set, and other marketing materials such as billboards and newspaper ads were designed. Later, digital marketing materials were created including social media ads were created to help spread the word.</p>
+
 - slug: OK-SET
   file: jpg
   secondary: []
   title: OMNI BREWING - OKTOBERFEST 
   description: |
     <p>Can design for OMNI's Oktoberfest marzen. Prost!</p>
+
+- slug: hip-bao
+  file: jpg
+  secondary: []
+  title: HIP BAO IDENTITY, SIGNAGE, & PACKAGING
+  description: |
+    <p>Designs for a new Omaha-based dumpling restaurant.</p>
+
 - slug: HH-SET
   file: jpg
   secondary: []
@@ -54,6 +86,13 @@
   title: OMNI BREWING - IT'S LIKE THAT 
   description: |
     <p>The second in a new series of New England style IPAs offered by OMNI. The names and designs are inspired by 90s hip hop music.</p>
+- slug: zoo-animals
+  file: jpg
+  secondary: []
+  title: SURFACE PATTERN - ZOO ANIMALS
+  description: |
+    <p>An illustrated surface pattern designed for Pottery Barn Kids's bedroom line.</p>
+
 - slug: MS-BP
   file: jpg
   secondary: []
@@ -84,17 +123,7 @@
   title: HOMEBREW ICON SET 
   description: |
     <p>A set of icons representing the process of home brewing. I released this set for purchase. If you are interested check it out <a href="https://gumroad.com/l/qidpD" target="_blank">here</a>.</p>
-- slug: playmaker
-  file: jpg
-  secondary: 
-    - playmaker-alt-01.jpg
-    - playmaker-alt-02.jpg
-    - playmaker-alt-03.jpg
-    - playmaker-alt-04.jpg
-    - playmaker-alt-05.jpg
-  title: PLAYMAKER JOURNAL - BASEBALL & SOFTBALL  
-  description: |
-    <p>A pocket-sized little league scorebook that allows any coach or proud parent to track a single child’s performance on the field.</p>
+
 - slug: lion
   file: png
   secondary: []
@@ -148,13 +177,6 @@
   description: |
     <p>Miniture apron designed for a toddler eager to help in the kitchen.</p>
 
-- slug: hip-bao
-  file: jpg
-  secondary: []
-  title: HIP BAO IDENTITY, SIGNAGE, & PACKAGING
-  description: |
-    <p>Designs for a new Omaha-based dumpling restaurant.</p>
-
 - slug: floral-pillow
   file: jpg
   secondary: []
@@ -168,16 +190,6 @@
   title: ANIMALS WITH GLASSES SURFACE PATTERN
   description: |
     <p>A silly repeating pattern designed for childrens home decor.</p>
-
-- slug: WP
-  file: jpg
-  secondary:
-      - WP-alt-01.jpg
-      - WP-alt-04.jpg
-      - WP-alt-03.jpg   
-  title: WAYPOINT SPINE - LOGO, SIGNAGE, BUSINESS SET
-  description: |
-    <p>A team of orthopedic specialists including surgeons, physician’s assistants, physical therapists, and nurses open private practice spine clinics in four locations across central Wisconsin. Initally a logo, business set, and other marketing materials such as billboards and newspaper ads were designed. Later, digital marketing materials were created including social media ads were created to help spread the word.</p>
 
 - slug: stockings
   file: jpg
@@ -306,10 +318,3 @@
   description: |
     <p>A'hoy matey!An illustrated surface pattern designed for Pottery Barn Kids's bedroom line.</p>
     
-- slug: zoo-animals
-  file: jpg
-  secondary: []
-  title: SURFACE PATTERN - ZOO ANIMALS
-  description: |
-    <p>An illustrated surface pattern designed for Pottery Barn Kids's bedroom line.</p>
-
