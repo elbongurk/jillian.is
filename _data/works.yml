@@ -284,3 +284,10 @@
   title: WP MEETUP LOGO
   description: |
     <p>A logo for a local area WordPress meetup group.</p>
+
+- slug: TRUCK
+  file: jpg
+  secondary: []
+  title: FOOD TRUCK SPOT GRAPHIC
+  description: |
+    <p>A quirky little 3-color spot graphic for use on a tutorial website.</p>
