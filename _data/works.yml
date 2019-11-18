@@ -188,3 +188,13 @@
   title: HOLIDAY STOCKING DESIGN - APPLIQUE & EMBROIDERY
   description: |
     <p>Illustration and textile design for a series of holiday stocking designs for Pottery Barn Kid's 2017 holiday home decor line.</p>
+
+- slug: WT
+  file: jpg
+  secondary:
+      - stockings-alt-01.jpg
+      - stockings-alt-02.jpg
+      - stockings-alt-03.jpg   
+  title: WATER TRAILS PRINTED BOOK LAYOUT
+  description: |
+    <p>Commissioned by the Iowa Department of Natural Resources, this is a publication outlining a plan including signage for recreational waterways in the state of Iowa.</p>
