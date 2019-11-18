@@ -191,10 +191,14 @@
 
 - slug: WT
   file: jpg
-  secondary:
-      - stockings-alt-01.jpg
-      - stockings-alt-02.jpg
-      - stockings-alt-03.jpg   
+  secondary:[]
   title: IOWA WATER TRAILS PRINTED BOOK LAYOUT
   description: |
     <p>Commissioned by the Iowa Department of Natural Resources, this is a publication outlining a plan including signage for recreational waterways in the state of Iowa.</p>
+
+- slug: SPSP
+  file: jpg
+  secondary:[]
+  title: STEVENS POINT SCULPTURE PARK
+  description: |
+    <p>Logo and website design for a new sculpture park in the the city of Steven's Point.</p>
