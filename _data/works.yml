@@ -56,24 +56,42 @@
   title: OMNI BREWING - HUE HEFE 
   description: |
     <p>Can design for OMNI's hefeweizen giving a stong nod to Hue Hefner and his iconic red robe.</p>
+
+- slug: birchknoll
+  file: jpg
+  secondary: []
+  title: CAMP BIRCH KNOLL
+  description: |
+    <p>Branding, identity, and website design for a popular all girls summer camp in northern Wisconsin.</p>
+
 - slug: LD-SET
   file: jpg
   secondary: []
   title: OMNI BREWING - LAKE DAY 
   description: |
     <p>Can design for OMNI's flagship brew, a session pale ale perfect for a day on the lake.</p>
+
 - slug: FAD-SET
   file: jpg
   secondary: []
   title: OMNI BREWING - FAD 
   description: |
     <p>Can design for OMNI's most popular heavy hitting double IPA.</p>
+
 - slug: FAD-V-SET
   file: jpg
   secondary: []
   title: OMNI BREWING - FAD VANILLA
   description: |
     <p>Can design for a limited release version of OMNI's most popular heavy hitting double IPA.</p>
+
+- slug: DDLS
+  file: jpg
+  secondary: []
+  title: DIGITAL DIRT LAND SURVEYING
+  description: |
+    <p>A unique and memorable identity, stationery set, and responsive website for a startup company focused on providing comprehensive digital land survey services to earthwork contractors, design firms, and equipment retailers involved in automated machine guidance (AMG) projects.</p>
+
 - slug: FAD-DDH-SET
   file: jpg
   secondary: []
@@ -229,13 +247,6 @@
   description: |
     <p>Branding, identity, and website design for a midwestern industrial hygiene consultancy.</p>
 
-- slug: birchknoll
-  file: jpg
-  secondary: []
-  title: CAMP BIRCH KNOLL
-  description: |
-    <p>Branding, identity, and website design for a popular all girls summer camp in northern Wisconsin.</p>
-
 - slug: AMPERSAND
   file: jpg
   secondary: []
@@ -256,13 +267,6 @@
   title: OMNI BREWING - SOTA COLLABORATION CROWLER
   description: |
     <p>Crowler can design for a collaborative brew between OMNI Brewing and SOTA clothing. Strawberry & rhubarb illustrations highlight the fruits that make this particular milkshake IPA taste so unique.</p>
-
-- slug: DDLS
-  file: jpg
-  secondary: []
-  title: DIGITAL DIRT LAND SURVEYING
-  description: |
-    <p>A unique and memorable identity, stationery set, and responsive website for a startup company focused on providing comprehensive digital land survey services to earthwork contractors, design firms, and equipment retailers involved in automated machine guidance (AMG) projects.</p>
 
 - slug: AMPERSANDs
   file: jpg
