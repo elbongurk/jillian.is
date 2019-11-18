@@ -298,4 +298,11 @@
   title: OMNI BREWING -SHANTY TOWN CROWLER
   description: |
     <p>Crowler can design for a nut ale with a Minnesota winter personality.</p>
+    
+- slug: elephant-pair
+  file: png
+  secondary: []
+  title: ELEPHANT PAIR LOGO
+  description: |
+    <p>Mama and baby elephant.</p>
 
