@@ -111,7 +111,7 @@
 - slug: BLOCKS
   file: png
   secondary: []
-  title: CHILDREN'S BLOCKS TYPEFACE
+  title: ALPHABET BLOCKS TYPEFACE
   description: |
     <p>Three variations of an illustrated typeface inspried by the wooden alphabet blocks of childhood.</p>
 - slug: lion-pillow
@@ -215,4 +215,11 @@
   secondary: []
   title: IH4U
   description: |
-    <p>Branding, identity, and website design for a midwestern industrial hygiene consultancy..</p>
+    <p>Branding, identity, and website design for a midwestern industrial hygiene consultancy.</p>
+
+- slug: birchknoll
+  file: jpg
+  secondary: []
+  title: CAMP BIRCH KNOLL
+  description: |
+    <p>Branding, identity, and website design for a popular all girls summer camp in northern Wisconsin.</p>
