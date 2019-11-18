@@ -300,9 +300,16 @@
     <p>Crowler can design for a nut ale with a Minnesota winter personality.</p>
     
 - slug: Nautical-Sheet
-  file: png
+  file: jpg
   secondary: []
   title: SURFACE PATTERN - NAUTICAL SHEET SET
   description: |
-    <p>A'hoy matey!</p>
+    <p>A'hoy matey!An illustrated surface pattern designed for Pottery Barn Kids's bedroom line.</p>
+    
+ - slug: zoo-animals
+  file: jpg
+  secondary: []
+  title: SURFACE PATTERN - ZOO ANIMALS
+  description: |
+    <p>An illustrated surface pattern designed for Pottery Barn Kids's bedroom line.</p>
 
