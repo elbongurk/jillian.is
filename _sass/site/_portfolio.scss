@@ -88,13 +88,11 @@
   .close {
     max-width: 20px;
   }
-  @media (min-width: 500px) {
-    .preview {
-      max-width: 250px;
-    }
-    .full {
-      max-width: 400px;
-    }
+  > li:nth-child(odd) .preview { padding-right: 5px }
+  > li:nth-child(even) .preview { padding-left: 5px }
+  @media (min-width: 800px) {
+    > li:nth-child(odd) .preview { padding-right: 0px }
+    > li:nth-child(even) .preview { padding-left: 0px }
   }
 }
 
