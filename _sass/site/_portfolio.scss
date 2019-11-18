@@ -18,6 +18,9 @@
   }
   label {
     cursor: pointer;
+    &:hover img {
+      opacity: 0.9;
+    }
   }
   input {
     width: 0.1px;
