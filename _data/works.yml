@@ -1,3 +1,24 @@
+    - slug: DD-SET
+  file: jpg
+  secondary:[]
+  title: OMNI BREWING - DAILY DOSE 
+  description: |
+     <p>Can design for OMNI's light, crisp ale with just the right amount of coffee.</p>
+
+- slug: turkey-potholder
+  file: jpg
+  secondary:[]
+  title: TEXTILE DESIGN - TURKEY POTHOLDER
+  description: |
+     <p>Can design for OMNI's light, crisp ale with just the right amount of coffee.</p>
+ 
+- slug: NC-SET
+  file: jpg
+  secondary:[]
+  title: OMNI BREWING - NIGHTCAP 
+  description: |
+     <p>Can design. This double stout is the perfect end to a long day, clocking in at 7.6% ABV. With decadent notes of milk chocolate, slight roast and a hint of plum, this full bodied beer is sure to warm your bones on these chilly Minnesota nights.</p>
+
 - slug: TM-SET
   file: jpg
   secondary:
