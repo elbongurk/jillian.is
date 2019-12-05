@@ -1,7 +1,9 @@
 
 - slug: ornaments
   file: png
-  secondary: []
+  secondary: 
+    - ornaments-alt-1.jpg
+    - ornaments-alt-2.jpg
   title: TEXTILE DESIGN - DESIGNS FOR FELT ORNAMENTS
   description: |
      <p>A set of illustrations for cute Christmas ornaments to be made from laser-cut, layered felt.</p>
