@@ -5,6 +5,13 @@
   description: |
      <p>A fresh new look for a long-time brand. A private practice urology clinic wanted to update their brand with a clean new look.</p>
      
+- slug: OMNI-generic-crowler
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - UNIVERSAL CROWLER DESIGN
+  description: |
+     <p>Integrating all the styles of beer OMNI brewes for a subtle background pattern for the universal crowler.</p>
+  
 - slug: SPMA
   file: png
   secondary: []
@@ -12,12 +19,12 @@
   description: |
      <p>Opening June 2020!</p>
  
-- slug: OMNI-OMNI-generic-crowler
+- slug: OMNI-peelin
   file: jpg
   secondary: []
-  title: OMNI BREWING - UNIVERSAL CROWLER DESIGN
+  title: OMNI BREWING - PEELIN'
   description: |
-     <p>Integrating all the styles of beer OMNI brewes for a subtle background pattern for the universal crowler.</p>
+     <p>Getting on the gose train.</p>
      
 - slug: OMNI-BirdiePutt
   file: jpg
