@@ -49,31 +49,28 @@
 - slug: pattern-9
   file: png
   secondary: []
-  title: Mermaid
+  title: Mermaid 01
 
      
-- slug: pattern-7
+- slug: pattern-10
   file: png
   secondary: 
     - dribbble-ornaments-alt-1.png
     - dribbble-ornaments-alt-2.png
-  title: ILLUSTRATION - DESIGNS FOR FELT ORNAMENTS
-  description: |
-     <p>A set of illustrations for cute Christmas ornaments to be made from laser-cut, layered felt.</p>
+  title: Mermaid 02
 
-- slug: DD-SET
-  file: jpg
+
+- slug: pattern-11
+  file: png
   secondary: []
-  title: OMNI BREWING - DAILY DOSE 
-  description: |
-     <p>Can design for OMNI's light, crisp ale with just the right amount of coffee.</p>
+  title: Pink Ponies
+
  
-- slug: NC-set
-  file: jpg
+- slug: pattern-12
+  file: png
   secondary: []
-  title: OMNI BREWING - NIGHTCAP 
-  description: |
-     <p>Can design. This double stout is the perfect end to a long day, clocking in at 7.6% ABV. With decadent notes of milk chocolate, slight roast and a hint of plum, this full bodied beer is sure to warm your bones on these chilly Minnesota nights.</p>
+  title: Grey Ponies 
+
 
 - slug: TM-SET
   file: jpg
