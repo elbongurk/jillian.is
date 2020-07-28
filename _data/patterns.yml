@@ -72,33 +72,26 @@
   title: Grey Ponies 
 
 
-- slug: TM-SET
-  file: jpg
+- slug: pattern-13
+  file: png
   secondary:
     - TM-SET-alt.jpg
-  title: OMNI BREWING - TIME MACHINE 
-  description: |
-     <p>Can design for OMNI's throwback American IPA which pays homage to the great beers of the 90's and 2000's.</p>
+  title: Blue Diamonds
 
-- slug: playmaker
-  file: jpg
+
+- slug: pattern-14
+  file: png
   secondary: 
     - playmaker-alt-01.jpg
     - playmaker-alt-02.jpg
-    - playmaker-alt-03.jpg
-    - playmaker-alt-04.jpg
-    - playmaker-alt-05.jpg
-  title: PLAYMAKER JOURNAL - BASEBALL & SOFTBALL  
-  description: |
-    <p>A pocket-sized little league scorebook that allows any coach or proud parent to track a single child’s performance on the field.</p>
+  title: Purple Roses 
 
-- slug: THIS-SET
-  file: jpg
+
+- slug: pattern-15
+  file: png
   secondary: []
-  title: OMNI BREWING - IT'S LIKE THIS 
-  description: |
-    <p>NEW ENGLAND IPA</p>
-    <p>The first in a new series of New England style IPAs offered by OMNI. The names and designs are inspired by 90s hip hop music.</p>
+  title: Blue Circles
+
 
 - slug: WP
   file: jpg
