@@ -1,16 +1,14 @@
 - slug: pattern-1
   file: png
   secondary: []
-  title: THE UROLOGY CLINIC - BRAND & IDENTITY
-  description: |
-     <p>A fresh new look for a long-time brand. A private practice urology clinic wanted to update their brand with a clean new look.</p>
+  title: Friendly Whales 01
+
      
-- slug: OMNI-generic-crowler
-  file: jpg
+- slug: pattern-2
+  file: png
   secondary: []
-  title: OMNI BREWING - UNIVERSAL CROWLER DESIGN
-  description: |
-     <p>Integrating all the styles of beer OMNI brewes for a subtle background pattern for the universal crowler.</p>
+  title: Friendly Whales 02
+
   
 - slug: SPMA
   file: png
