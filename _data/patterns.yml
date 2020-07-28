@@ -34,26 +34,23 @@
   title: Pink Butterflies
 
 
-- slug: SFC
+- slug: pattern-7
   file: png
   secondary: []
   title: STEVENSON FAMILY CHIROPRACTIC - IDENTITY & BRANDING
-  description: |
-     <p>A brand new chiropractic practice is coming to town. Doctors Tony & Emily Stevenson aim to serve patients throughout the lifespan focusing on preventative and maintenance care through the lifespan.</p>
 
-- slug: for-shorr
+
+- slug: pattern-8
   file: png
   secondary: []
   title: FOR SHORR - IDENTITY DESIGN
-  description: |
-     <p>A playful campaign identity for David Shorr, an incumbent alderperson running for another term.</p>
+
  
-- slug: center-cut
+- slug: pattern-9
   file: png
   secondary: []
   title: CENTER CUT - IDENTITY DESIGN
-  description: |
-     <p>Identity work for an upcoming golf travel company. The client wanted a colorful logo, but also needed it to work in one-color for various applications.</p>
+
      
 - slug: ornaments
   file: png
