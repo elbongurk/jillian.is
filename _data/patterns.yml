@@ -128,64 +128,60 @@
 - slug: pattern-21
   file: png
   secondary: []
-  title: Purple Roses
+  title: Purple Roses 01
 
 
 - slug: pattern-22
   file: png
   secondary: []
-  title: OMNI BREWING - FAD 
+  title: Purple Roses 02
 
 
 - slug: pattern-23
   file: png
   secondary: []
-  title: OMNI BREWING - FAD VANILLA
+  title: Rainy Day | Black & White
 
 
 - slug: pattern-24
   file: png
   secondary: []
-  title: DIGITAL DIRT LAND SURVEYING
+  title: Rainy Day | Color
 
 
 - slug: pattern-25
   file: png
   secondary: []
-  title: OMNI BREWING - FAD DOUBLE DRY HOPPED
+  title: Rainy Day | Blue Skies
 
 
 - slug: pattern-26
   file: png
   secondary: []
-  title: OMNI BREWING - IT'S LIKE THAT 
+  title: Playful Elephants 
 
 
-- slug: SP-03
-  file: jpg
+- slug: pattern-27
+  file: png
   secondary: []
   title: SURFACE PATTERNS - RAINY DAY
-  description: |
-    <p>A few variations on an illustrated rainy day surface pattern.</p>
 
-- slug: MS-BP
-  file: jpg
+
+- slug: pattern-28
+  file: png
   secondary: []
   title: OMNI BREWING - MALT SHOP - BLUEBERRY PINEAPPLE
-  description: |
-    <p>A unique sub-brand for a series of milkshake style IPAs offered by OMNI. A hand-lettered emblem wa was designed along with some fruity illustrations to highlight the ingredients that make this beer unique.</p>
-- slug: MS-DBR
-  file: jpg
+
+- slug: pattern-29
+  file: png
   secondary: []
   title: OMNI BREWING - MALT SHOP - DOUBLE RASPBERRY & DOUBLE VANILLA
-  description: |
-    <p>A unique sub-brand for a series of milkshake style IPAs offered by OMNI. A hand-lettered emblem was designed along with some fruity illustrations to highlight the ingredients that make this beer unique.</p>
-- slug: NE-SET
-  file: jpg
+
+- slug: pattern-30
+  file: png
   secondary: []
   title: OMNI BREWING - NEXT EPISODE
-  description: |
-    <p>The third in a new series of New England style IPAs offered by OMNI. The names and designs are inspired by 90s hip hop music.</p>
+
 - slug: MS-fruits
   file: png
   secondary: []
