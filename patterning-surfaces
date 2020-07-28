@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>jillian.is patterning-surfaces</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <script src="../assets/js/modernizr-2.8.3.min.js"></script>
+  </head>
+  <body>
+    <header role="navigation" class="centered-navigation">
+      <div class="centered-navigation-wrapper">
+        <a href="../working/index.html" class="mobile-logo">
+          <img src="../assets/img/FR_logo_hat.png" alt="Logo image">
+        </a>
+        <a href="#" class="centered-navigation-menu-button"><img src="../assets/img/hamburger.jpg"/></a>
+        <ul class="centered-navigation-menu">
+<!--            <li class="nav-link"><a href="../index.html">About</a></li> -->
+          <li class="nav-link"><a href="/working/">Work</a></li>
+<!--           <li class="nav-link"><a href="javascript:void(0)">Teaching</a></li> -->
+          <li class="nav-link logo">
+<!--             <a href="index.html" class="logo"> -->
+              <img src="../assets/img/FR_logo_hat.png" class="me" alt="Logo image">
+<!--             </a> -->
+          </li>
+<!--           <li class="nav-link"><a href="javascript:void(0)">About</a></li> -->
+<!--           <li class="nav-link"><a href="../contact/index.html">Side Projects</a> -->
+          <li class="nav-link"><a href="../ready-to-talk/">Contact</a>
+        </ul>
+      </div>
+    </header>
+    <header role="banner">
+    	<figure>
+    		<figcaption>
+    			<h1>Surface Patterns</h1>
+    			<p><span class="reduce">I've been working with Minnesota's own OMNI Brewing to update their brand, beginning with a redesign of their cans. The first one in the set hit the shelves on New Years Eve 2018, but the whole 2019 lineup is on it's way!</p>
+    		</figcaption>
+    	</figure>
+    </header>
+    <article role="main">
+	    <section class="work" id="selected-works">
+        <!--<header>
+          <h2>April 1, 2015</h2>
+        </header>-->
+        <ul>
+ <li>
+            <figure>
+            	<img src="../assets/img/patterns/fabric-11.jpg">
+            		<!--<h5 class="feature-title"><em>Cap</em></h5>-->
+            		<!--road-bike-tire, mountain-bike-tire, brew-pot-->            	
+            </figure>
+          </li>
+   <li>
+
+            <figure>
+            	<img src="../assets/img/patterns/fabric-05.jpg">
+            		<!--<h5 class="feature-title"><em>Cap</em></h5>-->
+            		<!--road-bike-tire, mountain-bike-tire, brew-pot-->            	
+            </figure>
+          </li>
+
+  <li>
+            <figure>
+            	<img src="../assets/img/patterns/fabric-10.jpg">
+            		<!--<h5 class="feature-title"><em>Cap</em></h5>-->
+            		<!--road-bike-tire, mountain-bike-tire, brew-pot-->            	
+            </figure>
+          </li>
+          </li>
+<li>
+
+            <figure>
+            	<img src="../assets/img/patterns/fabric-03.jpg">
+            		<!--<h5 class="feature-title"><em>Cap</em></h5>-->
+            		<!--road-bike-tire, mountain-bike-tire, brew-pot-->            	
+            </figure>
+          </li>
+
+  <li>
+            <figure>
+            	<img src="../assets/img/patterns/fabric-09.jpg">
+            		<!--<h5 class="feature-title"><em>Cap</em></h5>-->
+            		<!--road-bike-tire, mountain-bike-tire, brew-pot-->            	
+            </figure>
+          </li>
+
+<li>
+
+            <figure>
+            	<img src="../assets/img/patterns/fabric-04.jpg">
+            		<!--<h5 class="feature-title"><em>Cap</em></h5>-->
+            		<!--road-bike-tire, mountain-bike-tire, brew-pot-->            	
+            </figure>
+
+ 
+
+
+
+        </ul>
+	    </section>
+
+<!--	 <section class="work" id="dribbble-works">
+
+        <header>
+          <h2>Some Examples</h2>
+        </header>
+        <ul>
+
+
+
+    <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-02.gif" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 31, 2015</h3>
+            		<p>Sprout</p>
+            	</figcaption>
+            </figure>
+          </li>
+
+        <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-02.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 30, 2015</h3>
+            		<p>Landscape</p>
+            	</figcaption>
+            </figure>
+          </li>
+
+        <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-03.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 29, 2015</h3>
+            		<p>Unicycle</p>
+            	</figcaption>
+            </figure>
+          </li>
+
+        <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-04.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 28, 2015</h3>
+            		<p>Folding Knife</p>
+            	</figcaption>
+            </figure>
+          </li>
+
+
+        <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-05.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 27, 2015</h3>
+            		<p>Axe</p>
+            	</figcaption>
+            </figure>
+          </li>
+
+        <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-06.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 26, 2015</h3>
+            		<p>Test Tube</p>
+            	</figcaption>
+            </figure>
+          </li>
+
+        <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-08.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 24, 2015</h3>
+            		<p>S Shaped Airlock</p>
+            	</figcaption>
+            </figure>
+          </li>
+
+        <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-09.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 23, 2015</h3>
+            		<p>Carboy</p>
+            	</figcaption>
+            </figure>
+          </li>
+
+	        <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-11.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 21, 2015</h3>
+            		<p>Brew Pot</p>
+            	</figcaption>
+            </figure>
+          </li>
+
+	        <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-12.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 20, 2015</h3>
+            		<p>Cupcake</p>
+            	</figcaption>
+            </figure>
+          </li>
+
+	        <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-13.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 19, 2015</h3>
+            		<p>Road Bike Tire</p>
+            	</figcaption>
+            </figure>
+          </li>
+
+	        <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-14.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 18, 2015</h3>
+            		<p>Prop Plane</p>
+            	</figcaption>
+            </figure>
+          </li>
+
+	        <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-15.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 17, 2015</h3>
+            		<p>Sailboat</p>
+            	</figcaption>
+            </figure>
+          </li>
+
+	        <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-16.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 16, 2015</h3>
+            		<p>Skyline</p>
+            	</figcaption>
+            </figure>
+          </li>
+
+	        <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-17.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 15, 2015</h3>
+            		<p>Pickles</p>
+            	</figcaption>
+            </figure>
+          </li>
+	        <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-18.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 14, 2015</h3>
+            		<p>Beard!</p>
+            	</figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-19.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 13, 2015</h3>
+            		<p>6 Pack Carrier with Bottles</p>
+            	</figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1472030-Elephant-Study-03?list=users&offset=2">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-20.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 12, 2015</h3>
+            		<p>6 Pack Carrier</p>
+            	</figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1435651-Woodblock-Prints?list=users&offset=3">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-21.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 11, 2015</h3>
+            		<p>Bulldozer</p>
+            	</figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1432525-Woodblock-One?list=users&offset=4">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-22.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 10, 2015</h3>
+            		<p>Sun Dial</p>
+            	</figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1407612-Fast-Train-Concept?list=users&offset=5">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-23.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 09, 2015</h3>
+            		<p>Sun</p>
+            	</figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1392137-A-bulldozer-illustration">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-24.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 08, 2015</h3>
+            		<p>Clock</p>
+            	</figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1387465-Elephant-Logo-Concept">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-25.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 07, 2015</h3>
+            		<p>Aerial View of a Hamburger</p>
+            	</figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+            <a href="https://dribbble.com/shots/1383030-Elephant-Logo-Concept">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-26.png" class="s-pattern"/>
+            </a>
+            	<figcaption>
+            		<h3>March 06, 2015</h3>
+            		<p>Kayaker</p>
+            	</figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+            <a href="http://thenounproject.com/term/bottle/29145/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-27.png" class="s-pattern"/>
+      
+            	<figcaption>
+            		<h3>March 05, 2015</h3>
+            		<p>Beer Bottle</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-28.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-29.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-30.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-31.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-32.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-33.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-34.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-35.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-36.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-37.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-38.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-39.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-40.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+					</li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-41.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+					</li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-42.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+					</li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-43.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-44.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-45.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-46.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-47.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+					
+          <li>
+          	<a href="http://thenounproject.com/term/tree/18164/">
+            <figure>
+            <a href="http://thenounproject.com/term/tree/18164/">
+            	<img src="../assets/img/patterns/Pattern-Collection-01-48.png" class="s-pattern"/>
+            
+            	<figcaption>
+            		<h3>March 04, 2015</h3>
+            		<p>Cottonwood Tree</p>
+            	</figcaption>
+            </figure>
+            </a>
+          </li>
+					
+        </ul>
+      </section>-->
+    </article>
+    <footer role="contentinfo" class="footer-2">
+      <div class="footer-logo">
+        <img src="../assets/img/FR_logo_hat.png" alt="Logo image">
+      </div>
+        <ul>
+          <li class="nav-link"><a href="../working/">Work</a></li>
+<!--           <li><a href="javascript:void(0)">Teaching</a></li> -->
+<!--           <li><a href="javascript:void(0)">About</a></li> -->
+          <li><a href="../ready-to-talk/">Contact</a></li>
+        </ul>    
+        <div class="footer-secondary-links">
+          <ul>
+            <li>Just start starting.</li>
+          </ul>    
+          <ul class="footer-social">
+            <li><a href="http://dribbble.com/fireantrescue">
+              <img src="../assets/img/dribbble_icon.png" alt="Dribbble">
+              </a></li>
+            <li><a href="http://twitter.com/fireantrescue">
+              <img src="../assets/img/twitter_icon.png" alt="Twitter">
+            </a></li>
+            <li><a href="http://www.linkedin.com/pub/jillian-noble/72/818/5">
+              <img src="../assets/img/linkedin_icon.png" alt="Twitter">
+            </a></li>
+            <li><a href="http://am.persand.me">
+              <img src="../assets/img/ampersand_icon.png" alt="Ampersandme">
+            </a></li>
+           <li><a href="http://elbongurk.com">
+              <img src="../assets/img/elbongurk_icon.png" alt="Elbongurk">
+            </a></li>
+            </a></li>
+          </ul>
+          </div>
+        </div>
+    </footer>
+    <script src="../assets/js/jquery-2.1.1.min.js"></script>
+    <script src="../assets/js/script.js"></script>
+  </body>
+</html>
