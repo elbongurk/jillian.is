@@ -1,0 +1,411 @@
+- slug: TUC
+  file: png
+  secondary: []
+  title: THE UROLOGY CLINIC - BRAND & IDENTITY
+  description: |
+     <p>A fresh new look for a long-time brand. A private practice urology clinic wanted to update their brand with a clean new look.</p>
+     
+- slug: OMNI-generic-crowler
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - UNIVERSAL CROWLER DESIGN
+  description: |
+     <p>Integrating all the styles of beer OMNI brewes for a subtle background pattern for the universal crowler.</p>
+  
+- slug: SPMA
+  file: png
+  secondary: []
+  title: STEVENS POINT MEDICAL AESTHETICS - BRAND & IDENTITY
+  description: |
+     <p>Opening June 2020!</p>
+ 
+- slug: OMNI-Peelin
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - PEELIN'
+  description: |
+     <p>Getting on the gose train.</p>
+     
+- slug: OMNI-BirdiePutt
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - BIRDIE PUTT
+  description: |
+     <p>A can design fit for this summer's golf course exclusive!</p>
+     
+- slug: OMNI-Melt-PR
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - MELT SMOOTHIE SOUR
+  description: |
+     <p>Playful and full of color, this can holds OMNI's first smoothie sour. They outdid themselves using 675 lbs of Raspberry and Passionfruit, conditioned on Madagascar, Tahitian, and Papua New Guinea Vanilla beans, and topped it off with marshmallows!</p>
+
+- slug: SFC
+  file: png
+  secondary: []
+  title: STEVENSON FAMILY CHIROPRACTIC - IDENTITY & BRANDING
+  description: |
+     <p>A brand new chiropractic practice is coming to town. Doctors Tony & Emily Stevenson aim to serve patients throughout the lifespan focusing on preventative and maintenance care through the lifespan.</p>
+
+- slug: for-shorr
+  file: png
+  secondary: []
+  title: FOR SHORR - IDENTITY DESIGN
+  description: |
+     <p>A playful campaign identity for David Shorr, an incumbent alderperson running for another term.</p>
+ 
+- slug: center-cut
+  file: png
+  secondary: []
+  title: CENTER CUT - IDENTITY DESIGN
+  description: |
+     <p>Identity work for an upcoming golf travel company. The client wanted a colorful logo, but also needed it to work in one-color for various applications.</p>
+     
+- slug: ornaments
+  file: png
+  secondary: 
+    - dribbble-ornaments-alt-1.png
+    - dribbble-ornaments-alt-2.png
+  title: ILLUSTRATION - DESIGNS FOR FELT ORNAMENTS
+  description: |
+     <p>A set of illustrations for cute Christmas ornaments to be made from laser-cut, layered felt.</p>
+
+- slug: DD-SET
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - DAILY DOSE 
+  description: |
+     <p>Can design for OMNI's light, crisp ale with just the right amount of coffee.</p>
+ 
+- slug: NC-set
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - NIGHTCAP 
+  description: |
+     <p>Can design. This double stout is the perfect end to a long day, clocking in at 7.6% ABV. With decadent notes of milk chocolate, slight roast and a hint of plum, this full bodied beer is sure to warm your bones on these chilly Minnesota nights.</p>
+
+- slug: TM-SET
+  file: jpg
+  secondary:
+    - TM-SET-alt.jpg
+  title: OMNI BREWING - TIME MACHINE 
+  description: |
+     <p>Can design for OMNI's throwback American IPA which pays homage to the great beers of the 90's and 2000's.</p>
+
+- slug: playmaker
+  file: jpg
+  secondary: 
+    - playmaker-alt-01.jpg
+    - playmaker-alt-02.jpg
+    - playmaker-alt-03.jpg
+    - playmaker-alt-04.jpg
+    - playmaker-alt-05.jpg
+  title: PLAYMAKER JOURNAL - BASEBALL & SOFTBALL  
+  description: |
+    <p>A pocket-sized little league scorebook that allows any coach or proud parent to track a single child’s performance on the field.</p>
+
+- slug: THIS-SET
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - IT'S LIKE THIS 
+  description: |
+    <p>NEW ENGLAND IPA</p>
+    <p>The first in a new series of New England style IPAs offered by OMNI. The names and designs are inspired by 90s hip hop music.</p>
+
+- slug: WP
+  file: jpg
+  secondary:
+      - WP-alt-01.jpg
+      - WP-alt-04.jpg
+      - WP-alt-03.jpg   
+  title: WAYPOINT SPINE - LOGO, SIGNAGE, BUSINESS SET
+  description: |
+    <p>A team of orthopedic specialists including surgeons, physician’s assistants, physical therapists, and nurses open private practice spine clinics in four locations across central Wisconsin. Initally a logo, business set, and other marketing materials such as billboards and newspaper ads were designed. Later, digital marketing materials were created including social media ads were created to help spread the word.</p>
+
+- slug: OK-SET
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - OKTOBERFEST 
+  description: |
+    <p>Can design for OMNI's Oktoberfest marzen. Prost!</p>
+
+- slug: hip-bao
+  file: jpg
+  secondary: []
+  title: HIP BAO IDENTITY, SIGNAGE, & PACKAGING
+  description: |
+    <p>Designs for a new Omaha-based dumpling restaurant.</p>
+
+- slug: HH-SET
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - HUE HEFE 
+  description: |
+    <p>Can design for OMNI's hefeweizen giving a stong nod to Hue Hefner and his iconic red robe.</p>
+
+- slug: birchknoll
+  file: jpg
+  secondary: []
+  title: CAMP BIRCH KNOLL
+  description: |
+    <p>Branding, identity, and website design for a popular all girls summer camp in northern Wisconsin.</p>
+
+- slug: LD-SET
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - LAKE DAY 
+  description: |
+    <p>Can design for OMNI's flagship brew, a session pale ale perfect for a day on the lake.</p>
+
+- slug: FAD-SET
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - FAD 
+  description: |
+    <p>Can design for OMNI's most popular heavy hitting double IPA.</p>
+
+- slug: FAD-V-SET
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - FAD VANILLA
+  description: |
+    <p>Can design for a limited release version of OMNI's most popular heavy hitting double IPA.</p>
+
+- slug: DDLS
+  file: jpg
+  secondary: []
+  title: DIGITAL DIRT LAND SURVEYING
+  description: |
+    <p>A unique and memorable identity, stationery set, and responsive website for a startup company focused on providing comprehensive digital land survey services to earthwork contractors, design firms, and equipment retailers involved in automated machine guidance (AMG) projects.</p>
+
+- slug: FAD-DDH-SET
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - FAD DOUBLE DRY HOPPED
+  description: |
+    <p>Can design for a limited release version of OMNI's most popular heavy hitting double IPA.</p>
+- slug: THAT-SET
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - IT'S LIKE THAT 
+  description: |
+    <p>The second in a new series of New England style IPAs offered by OMNI. The names and designs are inspired by 90s hip hop music.</p>
+
+- slug: SP-03
+  file: jpg
+  secondary: []
+  title: SURFACE PATTERNS - RAINY DAY
+  description: |
+    <p>A few variations on an illustrated rainy day surface pattern.</p>
+
+- slug: MS-BP
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - MALT SHOP - BLUEBERRY PINEAPPLE
+  description: |
+    <p>A unique sub-brand for a series of milkshake style IPAs offered by OMNI. A hand-lettered emblem wa was designed along with some fruity illustrations to highlight the ingredients that make this beer unique.</p>
+- slug: MS-DBR
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - MALT SHOP - DOUBLE RASPBERRY & DOUBLE VANILLA
+  description: |
+    <p>A unique sub-brand for a series of milkshake style IPAs offered by OMNI. A hand-lettered emblem was designed along with some fruity illustrations to highlight the ingredients that make this beer unique.</p>
+- slug: NE-SET
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - NEXT EPISODE
+  description: |
+    <p>The third in a new series of New England style IPAs offered by OMNI. The names and designs are inspired by 90s hip hop music.</p>
+- slug: MS-fruits
+  file: png
+  secondary: []
+  title: OMNI BREWING - MALT SHOP EMBLEM & FRUIT ILLUTRATIONS 
+  description: |
+    <p>A hand-lettered emblem was designed along with some fruity illustrations to highlight the ingredients that make each one of these beers unique.</p>
+- slug: BEER-ICONS
+  file: png
+  secondary: []
+  title: HOMEBREW ICON SET 
+  description: |
+    <p>A set of icons representing the process of home brewing. I released this set for purchase. If you are interested check it out <a href="https://gumroad.com/l/qidpD" target="_blank">here</a>.</p>
+
+- slug: lion
+  file: png
+  secondary: []
+  title: Geometric Lion  
+  description: |
+    <p>I've always loved animal illustration, but this I wanted to do more experimentation with abstraction and detail. Inspired by a class I took taught by DKNG studios.</p>
+- slug: bear
+  file: png
+  secondary: []
+  title: Geomeric Polar Bear  
+  description: |
+    <p>Another in the series of geometric animal illustrations.</p>
+    <p>I've always loved animal illustration, but this I wanted to do more experimentation with abstraction and detail. Inspired by a class I took taught by DKNG studios.</p>
+- slug: BLOCKS
+  file: png
+  secondary: []
+  title: ALPHABET BLOCKS TYPEFACE
+  description: |
+    <p>Three variations of an illustrated typeface inspried by the wooden alphabet blocks of childhood.</p>
+- slug: lion-pillow
+  file: jpg
+  secondary: []
+  title: LION ILLUSTRATION - THROW PILLOW
+  description: |
+    <p>An illustrated lion designed for decorative throw pillow.</p>
+- slug: SP-01
+  file: jpg
+  secondary: []
+  title: SURFACE PATTERNS - BAUHAUS ZOO ANIMALS
+  description: |
+    <p>A Bauhaus inspired illustrated animal surface pattern created for Pottery Barn Kid's bedroom collection.</p>
+
+- slug: SP-02
+  file: jpg
+  secondary: []
+  title: SURFACE PATTERNS - PRINCESSES
+  description: |
+    <p>A illustrated princess surface pattern and secondary parttern created for Pottery Barn Kid's bedroom collection.</p>
+
+- slug: APRON-SET
+  file: jpg
+  secondary: []
+  title: SURFACE PATTERNS/TEXTILE DESIGN - TODDLER APRON
+  description: |
+    <p>Miniture apron designed for a toddler eager to help in the kitchen.</p>
+
+- slug: floral-pillow
+  file: jpg
+  secondary: []
+  title: FLORAL SURFACE PATTERN
+  description: |
+    <p>A fanciful repeating floral surface pattern.</p>
+
+- slug: glasses-pillow
+  file: jpg
+  secondary: []
+  title: ANIMALS WITH GLASSES SURFACE PATTERN
+  description: |
+    <p>A silly repeating pattern designed for childrens home decor.</p>
+
+- slug: stockings
+  file: jpg
+  secondary:
+      - stockings-alt-01.jpg
+      - stockings-alt-02.jpg
+      - stockings-alt-03.jpg   
+  title: HOLIDAY STOCKING DESIGN - APPLIQUE & EMBROIDERY
+  description: |
+    <p>Illustration and textile design for a series of holiday stocking designs for Pottery Barn Kid's 2017 holiday home decor line.</p>
+
+- slug: WT
+  file: jpg
+  secondary: []
+  title: IOWA WATER TRAILS PRINTED BOOK LAYOUT
+  description: |
+    <p>Commissioned by the Iowa Department of Natural Resources, this is a publication outlining a plan including signage for recreational waterways in the state of Iowa.</p>
+
+- slug: SPSP
+  file: jpg
+  secondary: []
+  title: STEVENS POINT SCULPTURE PARK
+  description: |
+    <p>Logo and website design for a new sculpture park in the the city of Steven's Point.</p>
+
+- slug: BLAW
+  file: jpg
+  secondary: []
+  title: BRABENDER & CHIANG LAW, LLC
+  description: |
+    <p>A Chicago-based law firm, Brabender & Chiang needed help with and identity, website, business set and marketing brochures.</p>
+
+- slug: IH4U
+  file: jpg
+  secondary: []
+  title: IH4U
+  description: |
+    <p>Branding, identity, and website design for a midwestern industrial hygiene consultancy.</p>
+
+- slug: AMPERSAND
+  file: jpg
+  secondary: []
+  title: AMPERSAND POSTERS - 
+  description: |
+    <p>A few of the posters that were included in my <a href="http://am.persand.me/exhibitions/" target="_blank">show</a>. They measure 15" x 22", hand printed woodblocks, printed on Strathmore riverPoint paper.</p>
+
+- slug: zoo-animals
+  file: jpg
+  secondary: []
+  title: SURFACE PATTERN - ZOO ANIMALS
+  description: |
+    <p>An illustrated surface pattern designed for Pottery Barn Kids's bedroom line.</p>
+
+- slug: MW
+  file: jpg
+  secondary: []
+  title: MIMI WAGNER LANDSCAPE ARCHITECTURE 
+  description: |
+    <p>Logo design and business set for a startup landscape architecture company in Ames, Iowa.</p>
+
+- slug: SOTA
+  file: jpg
+  secondary: []
+  title: OMNI BREWING - SOTA COLLABORATION CROWLER
+  description: |
+    <p>Crowler can design for a collaborative brew between OMNI Brewing and SOTA clothing. Strawberry & rhubarb illustrations highlight the fruits that make this particular milkshake IPA taste so unique.</p>
+
+- slug: AMPERSANDs
+  file: jpg
+  secondary: []
+  title: AM.PERSAND.ME
+  description: |
+    <p>Once upon a time, I drew one ampersand every day for one-hundred days and postedit to a blog <a href="http://am.persand.me" target="_blank">am.persand.me</a>.</p>
+
+- slug: car-alphabet
+  file: jpg
+  secondary: 
+      - car-alphabet-alt-01.jpg
+      - car-alphabet-alt-02.jpg
+      - car-alphabet-alt-03.jpg
+      - car-alphabet-alt-04.jpg
+  title: HAND LETTERED TINY HIGHWAYS POSTER
+  description: |
+    <p>A hand-lettered alphabet I worked upfor a friend's little boy.</p>
+  
+- slug: HT
+  file: jpg
+  secondary: []
+  title: HERITAGE TRAIL LOGO
+  description: |
+    <p>An identity idea for a 26-mile bike trail in northern Iowa.</p>
+    <p>The mark combines the idea of a bike tire, a bridge, and a river, all three of which symbolize the trail itself.</p>
+
+- slug: WP-meet
+  file: jpg
+  secondary: []
+  title: WP MEETUP LOGO
+  description: |
+    <p>A logo for a local area WordPress meetup group.</p>
+
+- slug: TRUCK
+  file: jpg
+  secondary: []
+  title: FOOD TRUCK SPOT GRAPHIC
+  description: |
+    <p>A quirky little 3-color spot graphic for use on a tutorial website.</p>
+ 
+- slug: SHANTY
+  file: jpg
+  secondary: []
+  title: OMNI BREWING -SHANTY TOWN CROWLER
+  description: |
+    <p>Crowler can design for a nut ale with a Minnesota winter personality.</p>
+    
+- slug: Nautical-Sheet
+  file: jpg
+  secondary: []
+  title: SURFACE PATTERN - NAUTICAL SHEET SET
+  description: |
+    <p>A'hoy matey!An illustrated surface pattern designed for Pottery Barn Kids's bedroom line.</p>
+    
