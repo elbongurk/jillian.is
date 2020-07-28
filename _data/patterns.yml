@@ -90,53 +90,46 @@
 - slug: pattern-15
   file: png
   secondary: []
-  title: Blue Circles
+  title: Blue Rings
 
 
-- slug: WP
-  file: jpg
+- slug: pattern-16
+  file: png
   secondary:
       - WP-alt-01.jpg
-      - WP-alt-04.jpg
-      - WP-alt-03.jpg   
-  title: WAYPOINT SPINE - LOGO, SIGNAGE, BUSINESS SET
-  description: |
-    <p>A team of orthopedic specialists including surgeons, physician’s assistants, physical therapists, and nurses open private practice spine clinics in four locations across central Wisconsin. Initally a logo, business set, and other marketing materials such as billboards and newspaper ads were designed. Later, digital marketing materials were created including social media ads were created to help spread the word.</p>
+      - WP-alt-04.jpg  
+  title: Brown Rings
 
-- slug: OK-SET
-  file: jpg
-  secondary: []
-  title: OMNI BREWING - OKTOBERFEST 
-  description: |
-    <p>Can design for OMNI's Oktoberfest marzen. Prost!</p>
 
-- slug: hip-bao
-  file: jpg
+- slug: pattern-17
+  file: png
   secondary: []
-  title: HIP BAO IDENTITY, SIGNAGE, & PACKAGING
-  description: |
-    <p>Designs for a new Omaha-based dumpling restaurant.</p>
+  title: White Rings on Blue 
 
-- slug: HH-SET
-  file: jpg
-  secondary: []
-  title: OMNI BREWING - HUE HEFE 
-  description: |
-    <p>Can design for OMNI's hefeweizen giving a stong nod to Hue Hefner and his iconic red robe.</p>
 
-- slug: birchknoll
-  file: jpg
+- slug: pattern-18
+  file: png
   secondary: []
-  title: CAMP BIRCH KNOLL
-  description: |
-    <p>Branding, identity, and website design for a popular all girls summer camp in northern Wisconsin.</p>
+  title: Victorian Flower
 
-- slug: LD-SET
-  file: jpg
+
+- slug: pattern-19
+  file: png
   secondary: []
-  title: OMNI BREWING - LAKE DAY 
-  description: |
-    <p>Can design for OMNI's flagship brew, a session pale ale perfect for a day on the lake.</p>
+  title: Victorian Flower with Pink Background 
+
+
+- slug: pattern-20
+  file: png
+  secondary: []
+  title: Victorin Flower with Blue Background
+
+
+- slug: pattern-21
+  file: png
+  secondary: []
+  title: Purple Roses
+
 
 - slug: FAD-SET
   file: jpg
