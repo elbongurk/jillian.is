@@ -2,6 +2,8 @@
   file: jpg
   secondary: []
   title: Bauhaus Animals Set
+  secondary:
+      - Bauhaus-alt-01.jpg
 
      
 - slug: pattern-2
