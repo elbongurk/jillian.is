@@ -1,6 +1,5 @@
 - slug: Bauhaus
   file: jpg
-  secondary: []
   title: Bauhaus Animals Set
   secondary:
       - Bauhaus-alt-06.jpg
@@ -8,8 +7,9 @@
       - Bauhaus-alt-03.jpg
       - Bauhaus-alt-04.jpg
       - Bauhaus-alt-02.jpg
- description: |
+  description: |
     <p>A fun, geometric take on some familar animals in this kid-friendly combination.</p>
+
 
      
 - slug: pattern-2
