@@ -9,13 +9,22 @@
       - Bauhaus-alt-02.jpg
   description: |
     <p>A fun, geometric take on some familar animals in this kid-friendly combination.</p>
+    
+- slug: Ferns
+  file: jpg
+  title: Ferns
+  secondary:
+      - Ferns-alt-01.jpg
+  description: |
+    <p>A fun, geometric take on some familar animals in this kid-friendly combination.</p>
 
 
      
-- slug: pattern-2
-  file: png
-  secondary: []
-  title: Friendly Whales 02
+- slug: Ferns
+  file: jpg
+  secondary:
+      - Ferns-alt-01.jpg
+  title: Ferns
 
   
 - slug: pattern-3
