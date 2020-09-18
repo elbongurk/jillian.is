@@ -30,4 +30,15 @@
       - Umbrella-alt-04.jpg
   description: |
     <p>A fun, geometric take on more familar animals in testing this kid-friendly combination.</p>
+    
+- slug: Watercolor1
+  file: jpg
+  title: Watercolor Flowers
+  secondary:
+      - Watercolor1-alt-01.jpg
+      - Umbrella-alt-02.jpg
+      - Umbrella-alt-03.jpg
+      - Umbrella-alt-04.jpg
+  description: |
+    <p>A fun, geometric take on more familar animals in testing this kid-friendly combination.</p>
      
