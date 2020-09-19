@@ -46,10 +46,8 @@
   file: jpg
   title: Silly Cats
   secondary:
+      - Cats-alt-02.jpg
       - Cats-alt-01.jpg
-      - Watercolor1-alt-03.jpg
-      - Watercolor1-alt-04.jpg
-      - Watercolor1-alt-01.jpg
   description: |
     <p>A playful hand painted watercolor floral pattern.</p>
      
