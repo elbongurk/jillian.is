@@ -61,4 +61,15 @@
       - Watercolor2-alt-01.jpg
   description: |
     <p>testing.</p> 
+ 
+- slug: Watercolor3
+  file: jpg
+  title: Hand Painted Watercolor Floral
+  secondary:
+      - Watercolor3-alt-02.jpg
+      - Watercolor3-alt-03.jpg
+      - Watercolor3-alt-04.jpg
+      - Watercolor3-alt-01.jpg
+  description: |
+    <p>testing.</p>  
      
