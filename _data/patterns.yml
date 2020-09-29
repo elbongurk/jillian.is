@@ -62,14 +62,13 @@
   description: |
     <p>testing.</p> 
  
-- slug: Watercolor3
+- slug: Daisies
   file: jpg
-  title: Hand Painted Watercolor Floral
+  title: Crazy Daisies
   secondary:
-      - Watercolor3-alt-02.jpg
-      - Watercolor3-alt-03.jpg
-      - Watercolor3-alt-04.jpg
-      - Watercolor3-alt-01.jpg
+      - Daisies-alt-02.jpg
+      - Daisies-alt-03.jpg
+      - Daises-alt-01.jpg
   description: |
     <p>testing.</p>  
      
