@@ -70,4 +70,14 @@
       - Daises-alt-01.jpg
   description: |
     <p>testing.</p>  
+
+- slug: PinkFlower
+  file: jpg
+  title: Cozy Flower Bedset
+  secondary:
+      - PinkFlower-alt-02.jpg
+      - PinkFlower-alt-01.jpg
+      - PinkFlower-alt-03.jpg
+  description: |
+    <p>testing.</p>  
      
