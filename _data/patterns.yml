@@ -71,13 +71,13 @@
   description: |
     <p>testing.</p>  
 
-- slug: PinkFlower
+- slug: PinkFlowers
   file: jpg
   title: Cozy Flower Bedset
   secondary:
-      - PinkFlower-alt-02.jpg
-      - PinkFlower-alt-01.jpg
-      - PinkFlower-alt-03.jpg
+      - PinkFlowers-alt-02.jpg
+      - PinkFlowers-alt-01.jpg
+      - PinkFlowers-alt-03.jpg
   description: |
     <p>testing.</p>  
      
