@@ -108,4 +108,13 @@
       - Fruit-alt-01.jpg
   description: |
     <p>testing.</p> 
+   
+- slug: Fish
+  file: jpg
+  title: A fanciful paisley pattern made of ocean life!
+  secondary:
+      - Fish-alt-02.jpg
+      - Fish-alt-01.jpg
+  description: |
+    <p>testing.</p> 
      
