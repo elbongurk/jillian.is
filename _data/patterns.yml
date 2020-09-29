@@ -136,4 +136,14 @@
       - NaturalRoom-alt-01.jpg
   description: |
     <p>testing.</p>
+    
+- slug: ScribbleFlowers
+  file: jpg
+  title: A fanciful paisley pattern made of ocean life!
+  secondary:
+      - ScribbleFlowers-alt-02.jpg
+      - ScribbleFlowers-alt-03.jpg
+      - ScribbleFlowers-alt-01.jpg
+  description: |
+    <p>testing.</p>
      
