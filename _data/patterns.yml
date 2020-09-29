@@ -100,3 +100,12 @@
   description: |
     <p>testing.</p> 
      
+- slug: Fruit
+  file: jpg
+  title: Fruit!
+  secondary:
+      - Fruit-alt-02.jpg
+      - Fruit-alt-01.jpg
+  description: |
+    <p>testing.</p> 
+     
