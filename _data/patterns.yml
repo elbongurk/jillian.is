@@ -194,7 +194,15 @@
       - Unicorn-alt-03.jpg
       - Unicorn-alt-01.jpg
   description: |
-    
+
+- slug: FlowerToss
+  file: jpg
+  title: Colorful Flower Toss
+  secondary:
+      - FlowerToss-alt-02.jpg
+      - FlowerToss-alt-01.jpg
+  description: |
+  
 - slug: Rose
   file: jpg
   title: Geometric Roses
@@ -212,14 +220,6 @@
       - Nautical-alt-01.jpg
       - Letters-alt-01.jpg
   description: | 
-    
-- slug: FlowerToss
-  file: jpg
-  title: Colorful Flower Toss
-  secondary:
-      - FlowerToss-alt-02.jpg
-      - FlowerToss-alt-01.jpg
-  description: |
 
 - slug: Tulip
   file: jpg
