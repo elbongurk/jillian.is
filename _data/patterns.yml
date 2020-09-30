@@ -67,14 +67,12 @@
       - Umbrella-alt-03.jpg
       - Umbrella-alt-04.jpg
   description: |
-    
-- slug: Rings
+
+- slug: Geo4
   file: jpg
-  title: Rings
+  title: Geometric Pattern 4
   secondary:
-      - Rings-alt-01.jpg
-      - Rings-alt-02.jpg
-      - Rings-alt-03.jpg
+      - Geo4-alt-02.jpg
   description: |
     
 - slug: Watercolor1
@@ -265,11 +263,13 @@
       - Geo3-alt-02.jpg
   description: |
   
-- slug: Geo4
+- slug: Rings
   file: jpg
-  title: Geometric Pattern 4
+  title: Rings
   secondary:
-      - Geo4-alt-02.jpg
+      - Rings-alt-01.jpg
+      - Rings-alt-02.jpg
+      - Rings-alt-03.jpg
   description: |
     
 
