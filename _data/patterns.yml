@@ -216,4 +216,14 @@
       - Rose-alt-03.jpg
   description: |
     <p>testkdjafkling.</p>
+    
+- slug: Rings
+  file: jpg
+  title: A fanciful paisley pattern made of ocean life!
+  secondary:
+      - Rings-alt-01.jpg
+      - Rings-alt-02.jpg
+      - Rings-alt-03.jpg
+  description: |
+    <p>testkdjafkling.</p>
      
