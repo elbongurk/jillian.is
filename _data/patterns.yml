@@ -212,14 +212,6 @@
       - Letters-alt-01.jpg
   description: | 
     
-- slug: Letters
-  file: jpg
-  title: Handrawn Grunge Alphabet
-  secondary:
-      - Letters-alt-02.jpg
-      - Letters-alt-01.jpg
-  description: |
-    
 - slug: FlowerToss
   file: jpg
   title: Colorful Flower Toss
@@ -243,6 +235,14 @@
   title: Variety of Patterns in Pink
   secondary:
       - FabricStack1-alt-01.jpg
+  description: |
+  
+- slug: Letters
+  file: jpg
+  title: Handrawn Grunge Alphabet
+  secondary:
+      - Letters-alt-02.jpg
+      - Letters-alt-01.jpg
   description: |
 
 - slug: Tulip
