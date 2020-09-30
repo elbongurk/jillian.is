@@ -236,6 +236,16 @@
       - FlowerToss-alt-01.jpg
   description: |
     <p>testkdjafkling.</p>
+    
+- slug: Elephant
+  file: jpg
+  title: A fanciful paisley pattern made of ocean life!
+  secondary:
+      - Elephant-alt-02.jpg
+      - Elephant-alt-03.jpg
+      - Elephant-alt-01.jpg
+  description: |
+    <p>testkdjafkling.</p>
 
 - slug: Tulip
   file: jpg
