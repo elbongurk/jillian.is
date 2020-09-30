@@ -72,18 +72,7 @@
       - Cats-alt-02.jpg
       - Cats-alt-01.jpg
   description: |
-    <p>A playful hand painted watercolor floral pattern.</p> 
-    
-- slug: Watercolor2
-  file: jpg
-  title: Hand Painted Watercolor Floral
-  secondary:
-      - Watercolor2-alt-02.jpg
-      - Watercolor2-alt-03.jpg
-      - Watercolor2-alt-04.jpg
-      - Watercolor2-alt-01.jpg
-  description: |
-    <p>testing.</p> 
+    <p>A playful hand painted watercolor floral pattern.</p>  
     
 - slug: Rings
   file: jpg
@@ -160,6 +149,17 @@
       - Fish-alt-01.jpg
   description: |
     <p>testing.</p> 
+    
+- slug: Watercolor2
+  file: jpg
+  title: Hand Painted Watercolor Floral
+  secondary:
+      - Watercolor2-alt-02.jpg
+      - Watercolor2-alt-03.jpg
+      - Watercolor2-alt-04.jpg
+      - Watercolor2-alt-01.jpg
+  description: |
+    <p>testing.</p>
     
 - slug: Leaves
   file: jpg
