@@ -30,6 +30,18 @@
       - Ferns-alt-01.jpg
   description: |
     <p>A fun, geometric take on some familar animals in this kid-friendly combination.</p>
+       
+- slug: Kinship
+  file: jpg
+  title: A fanciful paisley pattern made of ocean life!
+  secondary:
+      - Kinship-alt-02.jpg
+      - Kinship-alt-03.jpg
+      - Kinship-alt-04.jpg
+      - Kinship-alt-05.jpg
+      - Kinship-alt-01.jpg
+  description: |
+    <p>testkdjafkling.</p>
     
 - slug: Umbrella
   file: jpg
@@ -100,7 +112,17 @@
       - PinkFlowers-alt-03.jpg
       - PinkFlowers-alt-01.jpg
   description: |
-    <p>testing.</p>  
+    <p>testing.</p> 
+
+- slug: NaturalRoom
+  file: jpg
+  title: A fanciful paisley pattern made of ocean life!
+  secondary:
+      - NaturalRoom-alt-02.jpg
+      - NaturalRoom-alt-03.jpg
+      - NaturalRoom-alt-01.jpg
+  description: |
+    <p>testing.</p>
 
 - slug: Watercolor5
   file: jpg
@@ -148,16 +170,6 @@
   description: |
     <p>testing.</p>
     
-- slug: NaturalRoom
-  file: jpg
-  title: A fanciful paisley pattern made of ocean life!
-  secondary:
-      - NaturalRoom-alt-02.jpg
-      - NaturalRoom-alt-03.jpg
-      - NaturalRoom-alt-01.jpg
-  description: |
-    <p>testing.</p>
-    
 - slug: ScribbleFlowers
   file: jpg
   title: A fanciful paisley pattern made of ocean life!
@@ -175,18 +187,6 @@
       - Unicorn-alt-02.jpg
       - Unicorn-alt-03.jpg
       - Unicorn-alt-01.jpg
-  description: |
-    <p>testkdjafkling.</p>
-     
-- slug: Kinship
-  file: jpg
-  title: A fanciful paisley pattern made of ocean life!
-  secondary:
-      - Kinship-alt-02.jpg
-      - Kinship-alt-03.jpg
-      - Kinship-alt-04.jpg
-      - Kinship-alt-05.jpg
-      - Kinship-alt-01.jpg
   description: |
     <p>testkdjafkling.</p>
     
