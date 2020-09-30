@@ -147,3 +147,13 @@
   description: |
     <p>testkdjafkling.</p>
      
+- slug: CherryBlossom
+  file: jpg
+  title: A fanciful paisley pattern made of ocean life!
+  secondary:
+      - CherryBlossom-alt-02.jpg
+      - CherryBlossom-alt-03.jpg
+      - CherryBlossom-alt-01.jpg
+  description: |
+    <p>testkdjafkling.</p>
+     
