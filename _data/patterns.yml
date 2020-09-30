@@ -241,6 +241,12 @@
       - Elephant-alt-01.jpg
   description: |
 
+- slug: FabricStack1
+  file: jpg
+  title: Variety of Patterns in Pink
+  secondary:
+      - FabricStack1-alt-01.jpg
+  description: |
 
 - slug: Tulip
   file: jpg
@@ -250,14 +256,7 @@
       - Tulip-alt-02.jpg
       - Tulip-alt-03.jpg
   description: |
-
     
-- slug: FabricStack1
-  file: jpg
-  title: Variety of Patterns in Pink
-  secondary:
-      - FabricStack1-alt-01.jpg
-  description: |
 
     
 
