@@ -50,7 +50,17 @@
       - Cats-alt-02.jpg
       - Cats-alt-01.jpg
   description: |
-    <p>A playful hand painted watercolor floral pattern.</p>  
+    <p>A playful hand painted watercolor floral pattern.</p> 
+    
+- slug: BrownFloral
+  file: jpg
+  title: A fanciful paisley pattern made of ocean life!
+  secondary:
+      - BrownFloral-alt-01.jpg
+      - Tulip-alt-02.jpg
+      - Tulip-alt-03.jpg
+  description: |
+    <p>testkdjafkling.</p>
     
 - slug: Umbrella
   file: jpg
@@ -227,16 +237,7 @@
       - Tulip-alt-03.jpg
   description: |
     <p>testkdjafkling.</p>
-    
-- slug: BrownFloral
-  file: jpg
-  title: A fanciful paisley pattern made of ocean life!
-  secondary:
-      - BrownFloral-alt-01.jpg
-      - Tulip-alt-02.jpg
-      - Tulip-alt-03.jpg
-  description: |
-    <p>testkdjafkling.</p>
+
    
 
      
