@@ -50,13 +50,13 @@
     
 - slug: BrownFloral
   file: jpg
-  title: A fanciful paisley pattern made of ocean life!
+  title: Geometric Floral
   secondary:
       - BrownFloral-alt-01.jpg
       - Tulip-alt-02.jpg
       - Tulip-alt-03.jpg
   description: |
-    <p>testkdjafkling.</p>
+
     
 - slug: Umbrella
   file: jpg
@@ -67,7 +67,7 @@
       - Umbrella-alt-03.jpg
       - Umbrella-alt-04.jpg
   description: |
-    <p>A fun, geometric take on more familar animals in testing this kid-friendly combination.</p>
+
     
 - slug: Watercolor1
   file: jpg
@@ -78,17 +78,17 @@
       - Watercolor1-alt-04.jpg
       - Watercolor1-alt-01.jpg
   description: |
-    <p>A playful hand painted watercolor floral pattern.</p>
+
     
 - slug: Rings
   file: jpg
-  title: A fanciful paisley pattern made of ocean life!
+  title: Rings
   secondary:
       - Rings-alt-01.jpg
       - Rings-alt-02.jpg
       - Rings-alt-03.jpg
   description: |
-    <p>testkdjafkling.</p>
+
  
 - slug: Daisies
   file: jpg
@@ -97,7 +97,7 @@
       - Daisies-alt-02.jpg
       - Daises-alt-01.jpg
   description: |
-    <p>testing.</p>  
+
 
 - slug: PinkFlowers
   file: jpg
@@ -107,7 +107,7 @@
       - PinkFlowers-alt-03.jpg
       - PinkFlowers-alt-01.jpg
   description: |
-    <p>testing.</p> 
+
  
 - slug: Foxes
   file: jpg
@@ -116,7 +116,6 @@
       - Foxes-alt-02.jpg
       - Foxes-alt-01.jpg
   description: |
-    <p>testing.</p>
 
 - slug: Watercolor5
   file: jpg
@@ -126,7 +125,7 @@
       - Watercolor5-alt-01.jpg
       - PinkFlowers-alt-01.jpg
   description: |
-    <p>testing.</p>  
+ 
      
 - slug: Fruit
   file: jpg
@@ -135,7 +134,7 @@
       - Fruit-alt-02.jpg
       - Fruit-alt-01.jpg
   description: |
-    <p>testing.</p> 
+
    
 - slug: Fish
   file: jpg
@@ -144,17 +143,17 @@
       - Fish-alt-02.jpg
       - Fish-alt-01.jpg
   description: |
-    <p>testing.</p> 
+ 
     
 - slug: NaturalRoom
   file: jpg
-  title: A fanciful paisley pattern made of ocean life!
+  title: Nature Inspired Crib Set
   secondary:
       - NaturalRoom-alt-02.jpg
       - NaturalRoom-alt-03.jpg
       - NaturalRoom-alt-01.jpg
   description: |
-    <p>testing.</p>
+
     
 - slug: Watercolor2
   file: jpg
@@ -165,93 +164,101 @@
       - Watercolor2-alt-04.jpg
       - Watercolor2-alt-01.jpg
   description: |
-    <p>testing.</p>
+
     
 - slug: Leaves
   file: jpg
-  title: A fanciful paisley pattern made of ocean life!
+  title: Painted Leaves
   secondary:
       - Leaves-alt-02.jpg
       - Leaves-alt-01.jpg
   description: |
-    <p>testing.</p>
+
     
 - slug: ScribbleFlowers
   file: jpg
-  title: A fanciful paisley pattern made of ocean life!
+  title: Scribble Flowers
   secondary:
       - ScribbleFlowers-alt-02.jpg
       - ScribbleFlowers-alt-03.jpg
       - ScribbleFlowers-alt-01.jpg
   description: |
-    <p>testkdjafkling.</p>
+
     
 - slug: Unicorn
   file: jpg
-  title: A fanciful paisley pattern made of ocean life!
+  title: Unicorn Explosion
   secondary:
       - Unicorn-alt-02.jpg
       - Unicorn-alt-03.jpg
       - Unicorn-alt-01.jpg
   description: |
-    <p>testkdjafkling.</p>
+
     
 - slug: Letters
   file: jpg
-  title: A fanciful paisley pattern made of ocean life!
+  title: Handrawn Grunge Alphabet
   secondary:
       - Letters-alt-02.jpg
       - Letters-alt-01.jpg
   description: |
-    <p>testkdjafkling.</p>
+
     
 - slug: Rose
   file: jpg
-  title: A fanciful paisley pattern made of ocean life!
+  title: Geometric Roses
   secondary:
       - Rose-alt-01.jpg
       - Rose-alt-02.jpg
       - Rose-alt-03.jpg
   description: |
-    <p>testkdjafkling.</p>
+ 
     
 - slug: Nautical
   file: jpg
-  title: A fanciful paisley pattern made of ocean life!
+  title: Nautical Themed Crib Set
   secondary:
       - Nautical-alt-01.jpg
       - Letters-alt-01.jpg
   description: |
-    <p>testkdjafkling.</p>
+
     
 - slug: FlowerToss
   file: jpg
-  title: A fanciful paisley pattern made of ocean life!
+  title: Colorful Flower Toss
   secondary:
       - FlowerToss-alt-02.jpg
       - FlowerToss-alt-01.jpg
   description: |
-    <p>testkdjafkling.</p>
+
     
 - slug: Elephant
   file: jpg
-  title: A fanciful paisley pattern made of ocean life!
+  title: Playful Elephants
   secondary:
       - Elephant-alt-02.jpg
       - Elephant-alt-03.jpg
       - Elephant-alt-01.jpg
   description: |
-    <p>testkdjafkling.</p>
+
 
 - slug: Tulip
   file: jpg
-  title: A fanciful paisley pattern made of ocean life!
+  title: Wallpaper Inspired Tulips
   secondary:
       - Tulip-alt-01.jpg
       - Tulip-alt-02.jpg
       - Tulip-alt-03.jpg
   description: |
-    <p>testkdjafkling.</p>
+
+    
+- slug: FabricStack1
+  file: jpg
+  title: Variety of Patterns in Pink
+  secondary:
+      - FabricStack1-alt-01.jpg
+  description: |
+
     
 
    
