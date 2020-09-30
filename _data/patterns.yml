@@ -221,6 +221,13 @@
       - Letters-alt-01.jpg
   description: | 
 
+- slug: FabricStack1
+  file: jpg
+  title: Variety of Patterns in Pink
+  secondary:
+      - FabricStack1-alt-01.jpg
+  description: |
+  
 - slug: Tulip
   file: jpg
   title: Wallpaper Inspired Tulips
@@ -238,13 +245,6 @@
       - Elephant-alt-03.jpg
       - Elephant-alt-04.jpg
       - Elephant-alt-01.jpg
-  description: |
-
-- slug: FabricStack1
-  file: jpg
-  title: Variety of Patterns in Pink
-  secondary:
-      - FabricStack1-alt-01.jpg
   description: |
   
 - slug: Geo2
