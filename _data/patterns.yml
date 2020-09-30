@@ -169,7 +169,13 @@
       - Leaves-alt-01.jpg
   description: |
 
-    
+- slug: Geo3
+  file: jpg
+  title: Geometric Pattern 3
+  secondary:
+      - Geo3-alt-02.jpg
+  description: |
+      
 - slug: ScribbleFlowers
   file: jpg
   title: Scribble Flowers
@@ -254,13 +260,6 @@
   title: Geometric Pattern 2
   secondary:
       - Geo2-alt-01.jpg
-  description: |
-  
-- slug: Geo3
-  file: jpg
-  title: Geometric Pattern 3
-  secondary:
-      - Geo3-alt-02.jpg
   description: |
   
 - slug: Rings
