@@ -67,7 +67,15 @@
       - Umbrella-alt-03.jpg
       - Umbrella-alt-04.jpg
   description: |
-
+    
+- slug: Rings
+  file: jpg
+  title: Rings
+  secondary:
+      - Rings-alt-01.jpg
+      - Rings-alt-02.jpg
+      - Rings-alt-03.jpg
+  description: |
     
 - slug: Watercolor1
   file: jpg
@@ -78,17 +86,6 @@
       - Watercolor1-alt-04.jpg
       - Watercolor1-alt-01.jpg
   description: |
-
-    
-- slug: Rings
-  file: jpg
-  title: Rings
-  secondary:
-      - Rings-alt-01.jpg
-      - Rings-alt-02.jpg
-      - Rings-alt-03.jpg
-  description: |
-
  
 - slug: Daisies
   file: jpg
