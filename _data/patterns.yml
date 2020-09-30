@@ -42,6 +42,15 @@
       - Kinship-alt-01.jpg
   description: |
     <p>testkdjafkling.</p>
+
+- slug: Cats
+  file: jpg
+  title: Silly Cats
+  secondary:
+      - Cats-alt-02.jpg
+      - Cats-alt-01.jpg
+  description: |
+    <p>A playful hand painted watercolor floral pattern.</p>  
     
 - slug: Umbrella
   file: jpg
@@ -64,15 +73,6 @@
       - Watercolor1-alt-01.jpg
   description: |
     <p>A playful hand painted watercolor floral pattern.</p>
-
-- slug: Cats
-  file: jpg
-  title: Silly Cats
-  secondary:
-      - Cats-alt-02.jpg
-      - Cats-alt-01.jpg
-  description: |
-    <p>A playful hand painted watercolor floral pattern.</p>  
     
 - slug: Rings
   file: jpg
@@ -103,16 +103,6 @@
   description: |
     <p>testing.</p> 
 
-- slug: NaturalRoom
-  file: jpg
-  title: A fanciful paisley pattern made of ocean life!
-  secondary:
-      - NaturalRoom-alt-02.jpg
-      - NaturalRoom-alt-03.jpg
-      - NaturalRoom-alt-01.jpg
-  description: |
-    <p>testing.</p>
-
 - slug: Watercolor5
   file: jpg
   title: Handpainted Watercolor Flowers
@@ -131,6 +121,16 @@
       - Foxes-alt-01.jpg
   description: |
     <p>testing.</p> 
+    
+- slug: NaturalRoom
+  file: jpg
+  title: A fanciful paisley pattern made of ocean life!
+  secondary:
+      - NaturalRoom-alt-02.jpg
+      - NaturalRoom-alt-03.jpg
+      - NaturalRoom-alt-01.jpg
+  description: |
+    <p>testing.</p>
      
 - slug: Fruit
   file: jpg
