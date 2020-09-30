@@ -111,17 +111,16 @@
       - Foxes-alt-02.jpg
       - Foxes-alt-01.jpg
   description: |
-
-- slug: Watercolor5
-  file: jpg
-  title: Handpainted Watercolor Flowers
-  secondary:
-      - Watercolor5-alt-02.jpg
-      - Watercolor5-alt-01.jpg
-      - PinkFlowers-alt-01.jpg
-  description: |
  
-     
+- slug: Rose
+  file: jpg
+  title: Geometric Roses
+  secondary:
+      - Rose-alt-01.jpg
+      - Rose-alt-02.jpg
+      - Rose-alt-03.jpg
+  description: |
+  
 - slug: Fruit
   file: jpg
   title: Fruit!
@@ -129,7 +128,6 @@
       - Fruit-alt-02.jpg
       - Fruit-alt-01.jpg
   description: |
-
    
 - slug: Fish
   file: jpg
@@ -138,7 +136,6 @@
       - Fish-alt-02.jpg
       - Fish-alt-01.jpg
   description: |
- 
     
 - slug: NaturalRoom
   file: jpg
@@ -148,7 +145,6 @@
       - NaturalRoom-alt-03.jpg
       - NaturalRoom-alt-01.jpg
   description: |
-
     
 - slug: Watercolor2
   file: jpg
@@ -159,7 +155,6 @@
       - Watercolor2-alt-04.jpg
       - Watercolor2-alt-01.jpg
   description: |
-
     
 - slug: Leaves
   file: jpg
@@ -202,16 +197,15 @@
       - FlowerToss-alt-02.jpg
       - FlowerToss-alt-01.jpg
   description: |
-  
-- slug: Rose
+
+- slug: Watercolor5
   file: jpg
-  title: Geometric Roses
+  title: Handpainted Watercolor Flowers
   secondary:
-      - Rose-alt-01.jpg
-      - Rose-alt-02.jpg
-      - Rose-alt-03.jpg
+      - Watercolor5-alt-02.jpg
+      - Watercolor5-alt-01.jpg
+      - PinkFlowers-alt-01.jpg
   description: |
- 
     
 - slug: Nautical
   file: jpg
