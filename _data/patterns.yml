@@ -1,3 +1,14 @@
+     
+- slug: CherryBlossom
+  file: jpg
+  title: A fanciful paisley pattern made of ocean life!
+  secondary:
+      - CherryBlossom-alt-02.jpg
+      - CherryBlossom-alt-03.jpg
+      - CherryBlossom-alt-01.jpg
+  description: |
+    <p>testkdjafkling.</p>
+    
 - slug: Bauhaus
   file: jpg
   title: Bauhaus Animals Set
@@ -49,7 +60,17 @@
       - Cats-alt-02.jpg
       - Cats-alt-01.jpg
   description: |
-    <p>A playful hand painted watercolor floral pattern.</p>
+    <p>A playful hand painted watercolor floral pattern.</p> 
+    
+- slug: Rings
+  file: jpg
+  title: A fanciful paisley pattern made of ocean life!
+  secondary:
+      - Rings-alt-01.jpg
+      - Rings-alt-02.jpg
+      - Rings-alt-03.jpg
+  description: |
+    <p>testkdjafkling.</p>
     
 - slug: Watercolor2
   file: jpg
@@ -146,16 +167,6 @@
       - ScribbleFlowers-alt-01.jpg
   description: |
     <p>testkdjafkling.</p>
-     
-- slug: CherryBlossom
-  file: jpg
-  title: A fanciful paisley pattern made of ocean life!
-  secondary:
-      - CherryBlossom-alt-02.jpg
-      - CherryBlossom-alt-03.jpg
-      - CherryBlossom-alt-01.jpg
-  description: |
-    <p>testkdjafkling.</p>
     
 - slug: Unicorn
   file: jpg
@@ -216,14 +227,5 @@
       - Rose-alt-03.jpg
   description: |
     <p>testkdjafkling.</p>
-    
-- slug: Rings
-  file: jpg
-  title: A fanciful paisley pattern made of ocean life!
-  secondary:
-      - Rings-alt-01.jpg
-      - Rings-alt-02.jpg
-      - Rings-alt-03.jpg
-  description: |
-    <p>testkdjafkling.</p>
+
      
