@@ -255,14 +255,21 @@
   file: jpg
   title: Geometric Pattern 2
   secondary:
-      - Letters-alt-01.jpg
+      - Geo2-alt-01.jpg
   description: |
   
 - slug: Geo3
   file: jpg
   title: Geometric Pattern 3
   secondary:
-      - Letters-alt-02.jpg
+      - Geo3-alt-02.jpg
+  description: |
+  
+- slug: Geo4
+  file: jpg
+  title: Geometric Pattern 4
+  secondary:
+      - Geo4-alt-02.jpg
   description: |
     
 
