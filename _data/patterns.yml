@@ -206,4 +206,14 @@
       - Tulip-alt-03.jpg
   description: |
     <p>testkdjafkling.</p>
+    
+- slug: Rose
+  file: jpg
+  title: A fanciful paisley pattern made of ocean life!
+  secondary:
+      - Rose-alt-01.jpg
+      - Rose-alt-02.jpg
+      - Rose-alt-03.jpg
+  description: |
+    <p>testkdjafkling.</p>
      
