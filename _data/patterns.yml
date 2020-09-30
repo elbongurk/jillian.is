@@ -242,13 +242,19 @@
   secondary:
       - FabricStack1-alt-01.jpg
   description: |
-
   
 - slug: Letters
   file: jpg
   title: Handrawn Grunge Alphabet
   secondary:
       - Letters-alt-02.jpg
+      - Letters-alt-01.jpg
+  description: |
+  
+- slug: Geo2
+  file: jpg
+  title: Geometric Pattern 2
+  secondary:
       - Letters-alt-01.jpg
   description: |
     
