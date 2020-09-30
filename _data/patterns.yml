@@ -121,16 +121,6 @@
       - Foxes-alt-01.jpg
   description: |
     <p>testing.</p> 
-    
-- slug: NaturalRoom
-  file: jpg
-  title: A fanciful paisley pattern made of ocean life!
-  secondary:
-      - NaturalRoom-alt-02.jpg
-      - NaturalRoom-alt-03.jpg
-      - NaturalRoom-alt-01.jpg
-  description: |
-    <p>testing.</p>
      
 - slug: Fruit
   file: jpg
@@ -149,6 +139,16 @@
       - Fish-alt-01.jpg
   description: |
     <p>testing.</p> 
+    
+- slug: NaturalRoom
+  file: jpg
+  title: A fanciful paisley pattern made of ocean life!
+  secondary:
+      - NaturalRoom-alt-02.jpg
+      - NaturalRoom-alt-03.jpg
+      - NaturalRoom-alt-01.jpg
+  description: |
+    <p>testing.</p>
     
 - slug: Watercolor2
   file: jpg
