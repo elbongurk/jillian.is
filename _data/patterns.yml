@@ -1,13 +1,12 @@
      
 - slug: CherryBlossom
   file: jpg
-  title: A fanciful paisley pattern made of ocean life!
+  title: Cherry Blossoms
   secondary:
       - CherryBlossom-alt-02.jpg
       - CherryBlossom-alt-03.jpg
       - CherryBlossom-alt-01.jpg
   description: |
-    <p>testkdjafkling.</p>
     
 - slug: Bauhaus
   file: jpg
@@ -29,11 +28,10 @@
       - Ferns-alt-02.jpg
       - Ferns-alt-01.jpg
   description: |
-    <p>A fun, geometric take on some familar animals in this kid-friendly combination.</p>
        
 - slug: Kinship
   file: jpg
-  title: A fanciful paisley pattern made of ocean life!
+  title: Kinship
   secondary:
       - Kinship-alt-02.jpg
       - Kinship-alt-03.jpg
@@ -41,7 +39,6 @@
       - Kinship-alt-05.jpg
       - Kinship-alt-01.jpg
   description: |
-    <p>testkdjafkling.</p>
 
 - slug: Cats
   file: jpg
@@ -50,7 +47,6 @@
       - Cats-alt-02.jpg
       - Cats-alt-01.jpg
   description: |
-    <p>A playful hand painted watercolor floral pattern.</p> 
     
 - slug: BrownFloral
   file: jpg
