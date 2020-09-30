@@ -62,16 +62,6 @@
   description: |
     <p>A playful hand painted watercolor floral pattern.</p> 
     
-- slug: Rings
-  file: jpg
-  title: A fanciful paisley pattern made of ocean life!
-  secondary:
-      - Rings-alt-01.jpg
-      - Rings-alt-02.jpg
-      - Rings-alt-03.jpg
-  description: |
-    <p>testkdjafkling.</p>
-    
 - slug: Watercolor2
   file: jpg
   title: Hand Painted Watercolor Floral
@@ -82,6 +72,16 @@
       - Watercolor2-alt-01.jpg
   description: |
     <p>testing.</p> 
+    
+- slug: Rings
+  file: jpg
+  title: A fanciful paisley pattern made of ocean life!
+  secondary:
+      - Rings-alt-01.jpg
+      - Rings-alt-02.jpg
+      - Rings-alt-03.jpg
+  description: |
+    <p>testkdjafkling.</p>
  
 - slug: Daisies
   file: jpg
@@ -199,6 +199,16 @@
   description: |
     <p>testkdjafkling.</p>
     
+- slug: Rose
+  file: jpg
+  title: A fanciful paisley pattern made of ocean life!
+  secondary:
+      - Rose-alt-01.jpg
+      - Rose-alt-02.jpg
+      - Rose-alt-03.jpg
+  description: |
+    <p>testkdjafkling.</p>
+    
 - slug: Nautical
   file: jpg
   title: A fanciful paisley pattern made of ocean life!
@@ -217,15 +227,6 @@
       - Tulip-alt-03.jpg
   description: |
     <p>testkdjafkling.</p>
-    
-- slug: Rose
-  file: jpg
-  title: A fanciful paisley pattern made of ocean life!
-  secondary:
-      - Rose-alt-01.jpg
-      - Rose-alt-02.jpg
-      - Rose-alt-03.jpg
-  description: |
-    <p>testkdjafkling.</p>
+   
 
      
