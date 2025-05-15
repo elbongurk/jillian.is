@@ -1,51 +1,62 @@
 ---
 layout: default
-title: Hi, I’m Jillian.
-description: I used to teach design. Now I run a brand and packaging studio—and I’m building something new for working designers.
+title: Jillian Noble - Branding, Design, & Illustration | Stevens Point, Wisconsin
+description: I am a designer, illustrator, ampersand drawer, bike enthusiast, and big fan of craft beer. I also like most foods, traveling, and big, dopey snow dogs.
 ---
 
-<div class="content">
-  <h1>Hi, I’m Jillian.</h1>
-  <p>I used to teach design. Now I run a brand and packaging studio—and I’m building something new for working designers.</p>
-  <p>This space will soon house the resources I wish I’d had earlier: pricing clarity, project tools, file prep help, and the stuff school skipped.</p>
-  <p>Until then, come hang out with me on Instagram:</p>
-  <p><a href="https://instagram.com/jillian.is"><strong>@jillian.is</strong></a></p>
-</div>
+{% assign asset_path = "/assets/img/" %}
+{% assign preview_ext = "-preview." %}
+{% assign full_ext = "-full." %}
+{% assign secondary_ext = "-secondary." %}
+{% assign retina_preview_ext = "-preview@2x." %}
+{% assign retina_full_ext = "-full@2x." %}
+{% assign retina_secondary_ext = "-secondary@2x." %}
 
-<hr />
+{% assign load_slug = "loading" %}
+{% assign load_preview = asset_path | append: load_slug | append: preview_ext | append: "png" | relative_url %}
+{% assign load_full = asset_path | append: load_slug | append: full_ext | append: "png" | relative_url %}
+{% assign load_secondary = asset_path | append: load_slug | append: secondary_ext | append: "png" | relative_url %}
+{% assign load_retina_preview = asset_path | append: load_slug | append: retina_preview_ext | append: "png" | relative_url %}
+{% assign load_retina_full = asset_path | append: load_slug | append: retina_full_ext | append: "png" | relative_url %}
+{% assign load_retina_secondary = asset_path | append: load_slug | append: retina_secondary_ext | append: "png" | relative_url %}
 
-<!-- 👇 Original Portfolio Grid (unchanged) -->
 <ul class="portfolio">
   {% for work in site.data.works %}
-    {% assign preview = "/assets/img/" | append: work.slug | append: "-preview.png" | relative_url %}
-    {% assign full = "/assets/img/" | append: work.slug | append: "-full.png" | relative_url %}
-    {% assign retina_preview = "/assets/img/" | append: work.slug | append: "-preview@2x.png" | relative_url %}
-    {% assign retina_full = "/assets/img/" | append: work.slug | append: "-full@2x.png" | relative_url %}
+  {% assign preview = asset_path | append: work.slug | append: preview_ext | append: work.file | relative_url %}
+  {% assign full = asset_path | append: work.slug | append: full_ext | append: work.file | relative_url %}
+  {% assign retina_preview = asset_path | append: work.slug | append: retina_preview_ext | append: work.file | relative_url %}
+  {% assign retina_full = asset_path | append: work.slug | append: retina_full_ext | append: work.file | relative_url %}
 
-    <li>
-      <label for="{{ work.slug }}">
-        <img class="preview lazy" src="{{ preview }}" srcset="{{ preview }} 1x, {{ retina_preview }} 2x" />
-      </label>
-      <input id="{{ work.slug }}" type="checkbox" />
+  <li>
+    <label for="{{ work.slug }}">
+      {% if forloop.index > 9 %}
+      <img class="preview lazy" src="{{ load_preview }}" srcset="{{ load_preview }} 1x, {{ load_retina_preview }} 2x" data-src="{{ preview }}" data-srcset="{{ preview }} 1x, {{ retina_preview }} 2x" />
+      {% else %}
+      <img class="preview" src="{{ preview }}" srcset="{{ preview }} 1x, {{ retina_preview }} 2x" />
+      {% endif %}
+    </label>
+    <input id="{{ work.slug }}" type="checkbox"/>
+    <div class="overlay-wrapper">
       <div class="overlay">
         <label for="{{ work.slug }}" aria-label="close">
-          <img class="close" src="{{ '/assets/img/close.png' | relative_url }}" />
+          <img class="close" src="{{ asset_path | append: "close.png" | relative_url }}" />
         </label>
         <figure>
-          <img class="full" src="{{ full }}" srcset="{{ full }} 1x, {{ retina_full }} 2x" />
+          <img class="full" src="{{ load_full }}" srcset="{{ load_full }} 1x, {{ load_retina_full }} 2x" data-src="{{ full }}" data-srcset="{{ full }} 1x, {{ retina_full }} 2x" />
           <figcaption>
             <h1>{{ work.title }}</h1>
-            {% if work.secondary.size > 0 %}
-              <ul>
-                {% for asset in work.secondary %}
-                  <li><img class="secondary" src="{{ '/assets/img/' | append: asset | relative_url }}" /></li>
-                {% endfor %}
-              </ul>
-            {% endif %}
+            {{ work.description }}            
           </figcaption>
         </figure>
+        {% if work.secondary.size > 0 %}
+        <ul>
+          {% for asset in work.secondary %}
+          <li><img class="secondary" src="{{ load_secondary }}" data-src="{{ asset_path | append: asset | relative_url }}"/></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
       </div>
-    </li>
+    </div>
+  </li>
   {% endfor %}
 </ul>
-<!-- 👆 End portfolio grid -->
