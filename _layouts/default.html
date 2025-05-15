@@ -2,45 +2,59 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+    <title>{{ page.title }}</title>
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:description" content="{{ page.description }}" />
-    <meta property="og:url" content="{{ "/" | absolute_url }}" />
+    <meta property="og:url" content="{{ page.url | absolute_url }}" />
     <meta property="og:site_name" content="Jillian Noble | Branding | Design | Illustration | Stevens Point, Wisconsin" />
-    <meta property="og:image" content="{{ "/assets/img/preview.png" | relative_url }}" />
+    <meta property="og:image" content="{{ '/assets/img/preview.png' | relative_url }}" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="800" />
     <meta property="og:locale" content="en_US" />
-    <meta name="description" content="{{ page.description }}">
+    <meta name="description" content="{{ page.description }}" />
 
-    <link href="{{ "/assets/css/style.css" | relative_url }}?v=2019" rel="stylesheet">
+    <link href="{{ '/assets/css/style.css' | relative_url }}?v=2019" rel="stylesheet" />
   </head>
   <body>
-	  <header role="banner">
-      <img src="{{ "/assets/img/me.jpg" | relative_url }}" />
-      <h1>Jillian Noble</h1>
-      <h2>Stevens Point, WI</h2>
-      <p>I am a designer, illustrator, bike enthusiast, and big fan of craft beer. I also like most foods, traveling, and big, dopey snow dogs.</p>
-      <p class="skills">branding, design, illustration, thinking, typography</p> 
-      <nav role="navigation" aria-label="Top Menu">
-        <ul>
-          <li><a title="Send me an email" href="mailto:jillian@elbongurk.com"><i class="mail"></i></a></li>
-          <li><a title="Find me on Dribbble" href="https://dribbble.com/fireantrescue"><i class="dribbble"></i></a></li>
-          <li><a title="Find me on Twitter" href="https://twitter.com/fireantrescue"><i class="twitter"></i></a></li>
-          <li><a title="Find me on Instagram" href="https://www.instagram.com/jnoble/"><i class="instagram"></i></a></li>
-          <li><a title="Find me on Linked In" href="https://www.linkedin.com/in/jilliannoble/"><i class="linked-in"></i></a></li>
-        </ul>
-      </nav>
-    </header>
-    {{ content }}
-    <footer role="contentinfo">
-      Copyright &copy; 2020 Jillian Noble
-    </footer>
-    <script src="{{ "/assets/js/script.js" | relative_url }}?v=2019"></script>
+
+    {% if page.url == "/" %}
+      <!-- 👋 HOMEPAGE ONLY: Show personal brand message instead of legacy content -->
+      <div style="max-width: 600px; margin: 4rem auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; text-align: center; line-height: 1.6;">
+        <h1 style="font-size: 2rem; font-weight: 600;">Hi, I’m Jillian.</h1>
+        <p style="font-size: 1.1rem;">I used to teach design. Now I run a brand and packaging studio—and I’m building something new for working designers.</p>
+        <p style="font-size: 1.1rem;">This space will soon house the resources I wish I’d had earlier: pricing clarity, project tools, file prep help, and the stuff school skipped.</p>
+        <p style="font-size: 1.1rem;">Until then, come hang out with me on Instagram:</p>
+        <p><a href="https://instagram.com/jillian.is" style="font-weight: bold; font-size: 1.2rem; text-decoration: none;">@jillian.is</a></p>
+      </div>
+    {% else %}
+      <!-- 👇 ORIGINAL SITE LAYOUT FOR OTHER PAGES -->
+      <header role="banner">
+        <img src="{{ '/assets/img/hero.jpg' | relative_url }}" />
+        <h1>Jillian Noble</h1>
+        <h2>Stevens Point, WI</h2>
+        <p>I am a designer, illustrator, bike enthusiast, and big fan of craft beer. I also like most foods, traveling, and big, dopey snow dogs.</p>
+        <p class="skills">branding, design, illustration, thinking, typography</p>
+        <nav role="navigation" aria-label="Top Menu">
+          <ul>
+            <li><a title="Send me an email" href="mailto:jillian@elbongurk.com"><i class="mail"></i></a></li>
+            <li><a title="Find me on Dribbble" href="https://dribbble.com/fireantrescue"><i class="dribbble"></i></a></li>
+            <li><a title="Find me on Twitter" href="https://twitter.com/fireantrescue"><i class="twitter"></i></a></li>
+            <li><a title="Find me on Instagram" href="https://www.instagram.com/jnoble/"><i class="instagram"></i></a></li>
+            <li><a title="Find me on LinkedIn" href="https://www.linkedin.com/in/jilliannoble/"><i class="linked-in"></i></a></li>
+          </ul>
+        </nav>
+      </header>
+
+      {{ content }}
+
+      <footer role="contentinfo">
+        Copyright &copy; 2025 Jillian Noble
+      </footer>
+    {% endif %}
+
+    <script src="{{ '/assets/js/script.js' | relative_url }}?v=2019"></script>
   </body>
 </html>
-
